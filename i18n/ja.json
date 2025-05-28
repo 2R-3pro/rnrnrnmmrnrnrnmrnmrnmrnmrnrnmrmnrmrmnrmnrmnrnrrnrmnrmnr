@@ -2214,7 +2214,7 @@
             "ability": "boostSomething",
             "abilityValue": 10,
             "appearanceRate": 5,
-            "name": "YouTube"
+            "name": "彼女"
         },
         {
             "imageName": "fire-whisper",
@@ -2694,7 +2694,7 @@
     ],
     "texts": {
         "app": {
-            "title": "ゴッドフィールド"
+            "title": "ティーチャーフィールド"
         },
         "langNames": {
             "en": "English",
