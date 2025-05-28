@@ -2762,7 +2762,7 @@
             "fog": "リモート",
             "flash": "片手間",
             "dream": "散らかり",
-            "darkcloud": "暗雲"
+            "darkcloud": "最前列"
         },
         "curseDescriptions": {
             "cold": "毎ターン1ダメージ<br>(悪化するとスラム街)",
@@ -2884,7 +2884,7 @@
             "usedMiracles": "起こした奇跡",
             "atk": "教{{atk}}",
             "plusAtk": "+教{{atk}}",
-            "atkBy2xMP": "教{MP×2}",
+            "atkBy2xMP": "教{🖊️×2}",
             "def": "ノート{{def}}",
             "hitRate": "{{hitRate}}%",
             "counter": "反撃",
@@ -2892,7 +2892,7 @@
             "mp": "MP",
             "cp": "¥",
             "price": "¥{{price}}",
-            "cost": "消費<br>MP{{mp}}",
+            "cost": "消費<br>🖊️{{mp}}",
             "flash": "まぶしい",
             "pray": "祈る",
             "forgive": "許す",
@@ -2952,9 +2952,9 @@
             "boostSomething": "+HP{{value}} +🖊️{{value}}<br>または +¥{{value}}",
             "addCurseOnDamage": "ダメージで{{curse}}",
             "selfCurse": "使用者に{{curse}}",
-            "selfCurseAndRedraw": "使用者に{{curse}}と神器一新",
+            "selfCurseAndRedraw": "使用者に{{curse}}と学習道具一新",
             "setCurseOfEverybody": "みんなに{{curse}}",
-            "removeMildCurses": "内職スラム街リモート片手間<br>のトラブルを解決する",
+            "removeMildCurses": "内職スラム街リモート<br>片手間のトラブルを解決する",
             "removeAllCurses": "すべての<br>トラブルを解決する",
             "setGuardian": "学年団が宿る",
             "setGuardianOfEverybody": "みんなに学年団が宿る",
@@ -2988,7 +2988,7 @@
             "cp": "¥{{cp}}",
             "upgradeHeaven": "発作 日頃の行い",
             "confusion": "御乱心 日頃の行い",
-            "redraw": "神器一新",
+            "redraw": "学習道具一新",
             "die": "学習完了乙"
         }
     }
