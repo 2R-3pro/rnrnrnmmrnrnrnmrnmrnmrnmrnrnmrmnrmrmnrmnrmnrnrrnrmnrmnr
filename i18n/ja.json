@@ -1801,7 +1801,7 @@
             "curse": "heaven",
             "price": 20,
             "giftRate": 1,
-            "name": "天国草"
+            "name": "仮病"
         },
         {
             "imageName": "smile-shell",
@@ -1843,7 +1843,7 @@
             "isPlusAtk": true,
             "price": 15,
             "giftRate": 2,
-            "name": "ちからの粉"
+            "name": "シャー芯の粉"
         },
         {
             "imageName": "spiritual-doll",
@@ -1851,7 +1851,7 @@
             "ability": "cutCost",
             "price": 5,
             "giftRate": 2,
-            "name": "精霊のぬいぐるみ"
+            "name": "精霊の筆箱"
         },
         {
             "imageName": "nocturnal-broom",
@@ -1859,7 +1859,7 @@
             "ability": "removeItems",
             "price": 10,
             "giftRate": 1,
-            "name": "夜空のホウキ"
+            "name": "夜空のシャーペン"
         },
         {
             "imageName": "goddess-s-soap",
@@ -1867,7 +1867,7 @@
             "ability": "removeUsedMiracles",
             "price": 10,
             "giftRate": 1,
-            "name": "女神の石けん"
+            "name": "女神の消しゴム"
         },
         {
             "imageName": "string-of-fate",
@@ -2746,7 +2746,7 @@
             "darkness": "音楽"
         },
         "elementDescriptions": {
-            "": "無教科の授業は、どの属性でもノートがとれる。",
+            "": "無教科の授業は、どの教科でもノートがとれる。",
             "fire": "{{fire}}の授業は、{{water}}でノートがとれる。",
             "water": "{{water}}の授業は、{{fire}}でノートがとれる。",
             "wood": "{{wood}}の授業は、{{stone}}でノートがとれる。",
@@ -2799,9 +2799,9 @@
             "moon": "奇跡を司る守護神"
         },
         "modeNames": {
-            "training": "修行",
-            "hidden": "隠れ乱闘",
-            "duel": "真剣タイマン"
+            "training": "教育実習",
+            "hidden": "定時制",
+            "duel": "真剣マンツーマン"
         },
         "modeDescriptions": {
             "training": "シャーペンと対戦",
@@ -2917,17 +2917,17 @@
             "addItem": "神器を一個もらす",
             "setElement": "{{element}}に染める",
             "doubleAtk": "授業を倍にする",
-            "counterAtk": "攻{ダメージ}",
-            "counter2xAtk": "攻{ダメージ×2}",
+            "counterAtk": "教{ダメージ}",
+            "counter2xAtk": "教{ダメージ×2}",
             "attackTwice": "二回攻撃する",
             "attackEveryEnemy": "すべての敵に<br>攻撃する",
             "attackSomebody": "日頃の行いが悪い人に攻撃する",
             "attractDanger": "あぶないシャーペンから<br>99ダメージ",
             "attackDyingly": "昇天のとき75%攻30",
-            "filterAtkElement": "攻撃の属性を<br>こし取る",
-            "bounceWeapon": "無属性武器を弾く",
-            "reflectWeapon": "無属性武器をはね返す",
-            "blockWeapon": "無属性武器を止める",
+            "filterAtkElement": "授業の教科を<br>こし取る",
+            "bounceWeapon": "無教科授業を弾く",
+            "reflectWeapon": "無教科授業をはね返す",
+            "blockWeapon": "無教科授業を止める",
             "bounceMiracle": "奇跡を弾く",
             "reflectMiracle": "奇跡をはね返す",
             "blockMiracle": "奇跡を止める",
@@ -2954,9 +2954,9 @@
             "selfCurse": "使用者に{{curse}}",
             "selfCurseAndRedraw": "使用者に{{curse}}と神器一新",
             "setCurseOfEverybody": "みんなに{{curse}}",
-            "removeMildCurses": "風邪 熱病 霧 閃光<br>の災いを払う",
+            "removeMildCurses": "内職　スラム街　リモート　片手間<br>の災いを払う",
             "removeAllCurses": "すべての<br>災いを払う",
-            "setGuardian": "守護神が宿る",
+            "setGuardian": "学年団が宿る",
             "setGuardianOfEverybody": "みんなに守護神が宿る",
             "confuseEverybody": "みんなが三回ずつ<br>勝手に行動する",
             "removeItems": "神器を<br>三個掃き飛ばす",
@@ -2966,7 +2966,7 @@
             "callPhenomenon": "超常現象が起こる"
         },
         "alerts": {
-            "pray": "武器を所持していると祈れない",
+            "pray": "授業を所持していると祈れない",
             "discard": "捨てる神器が選ばれていない",
             "sacrifice": "ささげる神器が選ばれていない",
             "sell": "売る神器が選ばれていない",
