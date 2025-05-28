@@ -2789,10 +2789,10 @@
         "guardianDescriptions": {
             "mars": "国語を司る学年団",
             "mercury": "数学を司る学年団",
-            "jupiter": "社会を司る守護神",
-            "saturn": "理科を司る守護神",
-            "uranus": "英語を司る守護神",
-            "pluto": "音楽を司る守護神",
+            "jupiter": "社会を司る学年団",
+            "saturn": "理科を司る学年団",
+            "uranus": "英語を司る学年団",
+            "pluto": "音楽を司る学年団",
             "neptune": "いやしを司る守護神",
             "venus": "お金を司る会計",
             "earth": "神器を司る守護神",
@@ -2804,8 +2804,8 @@
             "duel": "真剣タイマン"
         },
         "modeDescriptions": {
-            "training": "コンピュータと対戦",
-            "hidden": "友達と対戦",
+            "training": "シャーペンと対戦",
+            "hidden": "先生と対戦",
             "duel": "2人個人戦"
         },
         "home": {
@@ -2841,13 +2841,13 @@
             "licenses": "ライセンス"
         },
         "menu": {
-            "userCount": "預言者 {{count}} 人",
+            "userCount": "先生 {{count}} 人",
             "roomPassword": "部屋の合言葉",
             "setRoomPassword": "唱える"
         },
         "training": {
-            "playerCount": "修行者 {{count}} 人",
-            "players": "修行者",
+            "playerCount": "先生 {{count}} 人",
+            "players": "先生",
             "countOption": "{{count}}人"
         },
         "matchmaking": {
@@ -2867,8 +2867,8 @@
             "chatToRoom": "部屋にお告げ",
             "chatToTeam": "チームにお告げ",
             "chatLog": "お告げの記録",
-            "userCount": "預言者 {{count}} 人",
-            "users": "預言者",
+            "userCount": "先生 {{count}} 人",
+            "users": "先生",
             "full": "満員",
             "giveUp": "戦いをあきらめる"
         },
@@ -2878,14 +2878,14 @@
             "shuffleTeams": "チームをシャッフル",
             "tiebreaker": "終末の時",
             "tiebreakerOff": "なし",
-            "addGame": "戦いを始める"
+            "addGame": "授業を始める"
         },
         "game": {
             "usedMiracles": "起こした奇跡",
-            "atk": "攻{{atk}}",
-            "plusAtk": "+攻{{atk}}",
-            "atkBy2xMP": "攻{MP×2}",
-            "def": "守{{def}}",
+            "atk": "教{{atk}}",
+            "plusAtk": "+教{{atk}}",
+            "atkBy2xMP": "教{MP×2}",
+            "def": "ノート{{def}}",
             "hitRate": "{{hitRate}}%",
             "counter": "反撃",
             "hp": "HP",
@@ -2903,10 +2903,10 @@
             "doNotBuy": "買わない",
             "opening": "先生たちの戦いが<br>今始まる！",
             "tiebreaker": "- 終末の時 -",
-            "tiebreakerBody": "シャーペンがやって来る",
+            "tiebreakerBody": "問題児がやって来る",
             "endingWin": "勝利",
             "endingDraw": "そしてだれも いなくなった",
-            "removeGame": "戦いを終わる"
+            "removeGame": "授業を終わる"
         },
         "abilities": {
             "discard": "神器を捨てる<br>(新しい神器は授からない)",
@@ -2916,7 +2916,7 @@
             "buy": "神器を一個買う",
             "addItem": "神器を一個もらす",
             "setElement": "{{element}}に染める",
-            "doubleAtk": "攻撃力を倍にする",
+            "doubleAtk": "授業を倍にする",
             "counterAtk": "攻{ダメージ}",
             "counter2xAtk": "攻{ダメージ×2}",
             "attackTwice": "二回攻撃する",
