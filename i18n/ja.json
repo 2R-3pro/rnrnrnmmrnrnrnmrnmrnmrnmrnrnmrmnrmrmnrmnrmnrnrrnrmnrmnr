@@ -537,7 +537,7 @@
             "curse": "cold",
             "price": 10,
             "giftRate": 1,
-            "name": "風のカギ爪"
+            "name": "生物レポート"
         },
         {
             "imageName": "piece-of-brightness",
@@ -576,7 +576,7 @@
             "ability": "setElement",
             "price": 15,
             "giftRate": 1,
-            "name": "発火のワンド"
+            "name": "国語のワンド"
         },
         {
             "imageName": "thorn-whip",
@@ -604,7 +604,7 @@
             "atk": 2,
             "price": 2,
             "giftRate": 1,
-            "name": "つるぎ焼き"
+            "name": "藍染"
         },
         {
             "imageName": "flash-dagger",
@@ -615,7 +615,7 @@
             "curse": "flash",
             "price": 15,
             "giftRate": 1,
-            "name": "フラッシュダガー"
+            "name": "カタテマダガー"
         },
         {
             "imageName": "fire-whip",
@@ -624,7 +624,7 @@
             "atk": 3,
             "price": 3,
             "giftRate": 1,
-            "name": "燃えムチ"
+            "name": "萌えムチ"
         },
         {
             "imageName": "fog-gun",
@@ -635,7 +635,7 @@
             "curse": "fog",
             "price": 10,
             "giftRate": 1,
-            "name": "霧鉄砲"
+            "name": "計算練習"
         },
         {
             "imageName": "bur-nut",
@@ -644,7 +644,7 @@
             "atk": 3,
             "price": 3,
             "giftRate": 1,
-            "name": "いがナッツ"
+            "name": "地域学習"
         },
         {
             "imageName": "mature-rubber-bow",
@@ -654,7 +654,7 @@
             "isPlusAtk": true,
             "price": 6,
             "giftRate": 1,
-            "name": "熟成ゴムの弓"
+            "name": "ucmrの雑談"
         },
         {
             "imageName": "star-staff",
@@ -663,7 +663,7 @@
             "atk": 3,
             "price": 3,
             "giftRate": 1,
-            "name": "スタースタッフ"
+            "name": "歌いましょう！"
         },
         {
             "imageName": "cobra",
@@ -672,7 +672,7 @@
             "atk": 3,
             "price": 10,
             "giftRate": 1,
-            "name": "コブラ"
+            "name": "リコーダーの演奏"
         },
         {
             "imageName": "flaming-roll",
@@ -682,7 +682,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "ほむら巻き"
+            "name": "国2授業プリント"
         },
         {
             "imageName": "fire-crossbow",
@@ -692,7 +692,7 @@
             "isPlusAtk": true,
             "price": 8,
             "giftRate": 1,
-            "name": "ファイヤークロスボウ"
+            "name": "立ってなさい！"
         },
         {
             "imageName": "frozen-hammer",
@@ -701,7 +701,7 @@
             "atk": 4,
             "price": 4,
             "giftRate": 1,
-            "name": "氷結ハンマー"
+            "name": "ymknのおしゃべり"
         },
         {
             "imageName": "dream-mallet",
@@ -712,7 +712,7 @@
             "curse": "dream",
             "price": 15,
             "giftRate": 1,
-            "name": "夢の木づち"
+            "name": "それってさ、違うよね"
         },
         {
             "imageName": "goodbye-sword",
@@ -721,7 +721,7 @@
             "atk": 4,
             "price": 10,
             "giftRate": 1,
-            "name": "さよならの剣"
+            "name": "ギター自主練"
         },
         {
             "imageName": "blaze-blade",
@@ -730,7 +730,7 @@
             "atk": 5,
             "price": 5,
             "giftRate": 1,
-            "name": "ブレイズブレイド"
+            "name": "国1小テスト"
         },
         {
             "imageName": "wand-of-mystic-water",
@@ -741,7 +741,7 @@
             "ability": "setElement",
             "price": 15,
             "giftRate": 1,
-            "name": "魔水のワンド"
+            "name": "数のワンド"
         },
         {
             "imageName": "paleolithic-javelin",
@@ -751,7 +751,7 @@
             "isPlusAtk": true,
             "price": 10,
             "giftRate": 1,
-            "name": "旧石器ジャベリン"
+            "name": "化学の実験"
         },
         {
             "imageName": "justice-lance",
@@ -760,7 +760,7 @@
             "atk": 5,
             "price": 5,
             "giftRate": 1,
-            "name": "ジャスティスランス"
+            "name": "単語テスト"
         },
         {
             "imageName": "killer-fork",
@@ -769,7 +769,7 @@
             "atk": 5,
             "price": 10,
             "giftRate": 1,
-            "name": "キラーフォーク"
+            "name": "ピアノのテスト"
         },
         {
             "imageName": "abyss-dart",
@@ -779,7 +779,7 @@
             "isPlusAtk": true,
             "price": 15,
             "giftRate": 1,
-            "name": "冥矢"
+            "name": "ギターのテスト"
         },
         {
             "imageName": "neolithic-tomahawk",
@@ -789,7 +789,7 @@
             "isPlusAtk": true,
             "price": 10,
             "giftRate": 1,
-            "name": "新石器トマホーク"
+            "name": "地学の実験"
         },
         {
             "imageName": "fire-dragon-s-horn",
@@ -798,7 +798,7 @@
             "atk": 8,
             "price": 10,
             "giftRate": 1,
-            "name": "火竜一角"
+            "name": "古文小テスト"
         },
         {
             "imageName": "water-dragon-s-horn",
@@ -807,7 +807,7 @@
             "atk": 8,
             "price": 10,
             "giftRate": 1,
-            "name": "水竜一角"
+            "name": "数学課題"
         },
         {
             "imageName": "holy-sword",
@@ -816,7 +816,7 @@
             "atk": 9,
             "price": 15,
             "giftRate": 1,
-            "name": "聖剣"
+            "name": "リスニング"
         },
         {
             "imageName": "sine",
@@ -834,7 +834,7 @@
             "atk": 13,
             "price": 25,
             "giftRate": 1,
-            "name": "ダイヤモンドソード"
+            "name": "mmsの実験"
         },
         {
             "imageName": "dangerous-pestle",
@@ -1645,7 +1645,7 @@
             "ability": "counterAtk",
             "price": 10,
             "giftRate": 1,
-            "name": "火星の指輪"
+            "name": "国語の指輪"
         },
         {
             "imageName": "mercury-ring",
@@ -1655,7 +1655,7 @@
             "curse": "fog",
             "price": 10,
             "giftRate": 1,
-            "name": "水星の指輪"
+            "name": "数学の指輪"
         },
         {
             "imageName": "jupiter-ring",
@@ -1665,7 +1665,7 @@
             "curse": "dream",
             "price": 10,
             "giftRate": 1,
-            "name": "木星の指輪"
+            "name": "社会の指輪"
         },
         {
             "imageName": "saturn-ring",
@@ -1674,7 +1674,7 @@
             "ability": "counter2xAtk",
             "price": 10,
             "giftRate": 1,
-            "name": "土星の指輪"
+            "name": "理科の指輪"
         },
         {
             "imageName": "uranus-ring",
@@ -1684,7 +1684,7 @@
             "curse": "flash",
             "price": 10,
             "giftRate": 1,
-            "name": "天王の指輪"
+            "name": "英語の指輪"
         },
         {
             "imageName": "pluto-ring",
@@ -1694,7 +1694,7 @@
             "curse": "darkcloud",
             "price": 10,
             "giftRate": 1,
-            "name": "冥王の指輪"
+            "name": "音楽の指輪"
         },
         {
             "imageName": "neptune-ring",
@@ -1712,7 +1712,7 @@
             "ability": "counterTakeCP",
             "price": 10,
             "giftRate": 1,
-            "name": "金星の指輪"
+            "name": "ykの指輪"
         },
         {
             "imageName": "rainbow-curtain",
@@ -1728,7 +1728,7 @@
             "ability": "reflectAnything",
             "price": 10,
             "giftRate": 1,
-            "name": "スーパーミラー"
+            "name": "iPad"
         },
         {
             "imageName": "smile-dew",
@@ -2224,7 +2224,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 6,
-            "name": "炎のささやき"
+            "name": "ymkwのささやき"
         },
         {
             "imageName": "fire-tweet",
@@ -2234,7 +2234,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 5,
-            "name": "炎のつぶやき"
+            "name": "ymkwのつぶやき"
         },
         {
             "imageName": "fire-buzz",
@@ -2244,7 +2244,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 4,
-            "name": "炎のしゃべり"
+            "name": "ymkwのしゃべり"
         },
         {
             "imageName": "fire-roar",
@@ -2254,7 +2254,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 3,
-            "name": "炎のうなり"
+            "name": "ymkwのうなり"
         },
         {
             "imageName": "fire-shout",
@@ -2264,7 +2264,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 2,
-            "name": "炎の叫び"
+            "name": "ymkwの叫び"
         },
         {
             "imageName": "drizzle",
@@ -2580,7 +2580,7 @@
             "abilityValue": 3,
             "guardian": "venus",
             "guardianAttackRate": 4,
-            "name": "罰金"
+            "name": "シャーペンの罰金"
         },
         {
             "imageName": "little-something",
@@ -2621,7 +2621,7 @@
             "guardian": "mars",
             "ability": "setCurseOfEverybody",
             "curse": "fever",
-            "name": "夕焼け"
+            "name": "スラム街拡大"
         },
         {
             "imageName": "dense-fog",
@@ -2629,7 +2629,7 @@
             "guardian": "mercury",
             "ability": "setCurseOfEverybody",
             "curse": "fog",
-            "name": "濃霧"
+            "name": "オンライン授業"
         },
         {
             "imageName": "mushroom-outbreak",
@@ -2718,12 +2718,12 @@
             "devils": "問題児",
             "guardians": "学年団",
             "phenomena": "超常現象",
-            "elementsNote": "異なる教科の授業を一緒に使うと無教科になる。",
+            "elementsNote": "異なる教科の授業を一緒に使うと自習になる。",
             "lightNote": "{{light}}は、{{fire}}、{{water}}、{{wood}}、{{stone}}の代わりになれる。",
             "diseasesNote": "トラブルは日頃の行いが悪いと悪化する。",
             "diseaseUpgradeNote": "トラブルにトラブルを重ねると悪化する。",
             "fogNote": "霧の中から敵に授業を使う場合、使用先は日頃の行いが悪い敵の中から無作為に選ばれる。",
-            "discardNote": "授業、太陽のお守り、あぶない肩は捨てられない。",
+            "discardNote": "授業、不死のトーテム、あぶない肩は捨てられない。",
             "sacrificeNote": "終末の時以降、捨てるはささげるに置き換わる。",
             "bounceNote": "授業を弾くと、その授業は日頃の行いが悪い人に向かう。",
             "miraclesNote": "奇跡を使うとMPを消費するが何度でも使える。",
@@ -2746,13 +2746,13 @@
             "darkness": "音楽"
         },
         "elementDescriptions": {
-            "": "無教科の授業は、どの教科でもノートがとれる。",
+            "": "自習の授業は、どの教科でもノートがとれる。",
             "fire": "{{fire}}の授業は、{{water}}でノートがとれる。",
             "water": "{{water}}の授業は、{{fire}}でノートがとれる。",
             "wood": "{{wood}}の授業は、{{stone}}でノートがとれる。",
             "stone": "{{stone}}の授業は、{{wood}}でノートがとれる。",
             "light": "{{light}}の授業は、どの教科でもノートがとれない。",
-            "darkness": "{{darkness}}の授業は、どの教科でも防御できる。<br>ただし、ダメージを受けるとHP0になる。"
+            "darkness": "{{darkness}}の授業は、どの教科でもノートがとれる。<br>ただし、ダメージを受けるとHP0になる。"
         },
         "curseNames": {
             "cold": "内職",
@@ -2770,8 +2770,8 @@
             "hell": "毎ターン5ダメージ<br>(悪化すると学級閉鎖)",
             "heaven": "毎ターン+HP5<br>(悪化すると学級崩壊を起こす)",
             "fog": "周りの状況が<br>わからなくなる",
-            "flash": "ノートをとるときに神器を<br>一つしか使えない",
-            "dream": "授かった神器が50%の<br>確率で別の神器に見える",
+            "flash": "ノートをとるときに学習道具を<br>一つしか使えない",
+            "dream": "授かった学習道具が50%の<br>確率で別の学習道具に見える",
             "darkcloud": "全体授業を受けると<br>必ず命中する"
         },
         "guardianNames": {
@@ -2909,12 +2909,12 @@
             "removeGame": "授業を終わる"
         },
         "abilities": {
-            "discard": "神器を捨てる<br>(新しい神器は授からない)",
-            "sacrifice": "神器をささげる<br>(新しい神器を授かる)",
+            "discard": "学習道具を捨てる<br>(新しい学習道具は授からない)",
+            "sacrifice": "学習道具をささげる<br>(新しい学習道具を授かる)",
             "exchange": "両替する<br>(HP1=MP1=¥1)",
-            "sell": "神器を一個売る",
-            "buy": "神器を一個買う",
-            "addItem": "神器を一個もらす",
+            "sell": "学習道具を一個売る",
+            "buy": "学習道具を一個買う",
+            "addItem": "学習道具を一個もらす",
             "setElement": "{{element}}に染める",
             "doubleAtk": "授業を倍にする",
             "counterAtk": "教{ダメージ}",
