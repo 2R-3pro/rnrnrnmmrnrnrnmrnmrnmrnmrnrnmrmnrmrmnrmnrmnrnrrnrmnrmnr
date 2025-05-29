@@ -2876,7 +2876,7 @@
             "solo": "個人戦",
             "teams": "チーム戦",
             "shuffleTeams": "チームをシャッフル",
-            "tiebreaker": "終末の時",
+            "tiebreaker": "放課後",
             "tiebreakerOff": "なし",
             "addGame": "授業を始める"
         },
@@ -2902,7 +2902,7 @@
             "doBuy": "買う",
             "doNotBuy": "買わない",
             "opening": "先生たちの戦いが<br>今始まる！",
-            "tiebreaker": "- 終末の時 -",
+            "tiebreaker": "放課後",
             "tiebreakerBody": "問題児がやって来る",
             "endingWin": "勝利",
             "endingDraw": "そしてだれも いなくなった",
