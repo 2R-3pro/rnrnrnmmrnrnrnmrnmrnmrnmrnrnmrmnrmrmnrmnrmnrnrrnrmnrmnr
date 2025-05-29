@@ -439,7 +439,7 @@
             "isPlusAtk": true,
             "price": 10,
             "giftRate": 1,
-            "name": "独楽コンバット"
+            "name": "小間コンバット"
         },
         {
             "imageName": "violent-flail",
@@ -447,7 +447,7 @@
             "atk": 14,
             "price": 5,
             "giftRate": 3,
-            "name": "暴れフレイル"
+            "name": "バイオレンスフレイル"
         },
         {
             "imageName": "kuro",
@@ -464,7 +464,7 @@
             "atk": 15,
             "price": 5,
             "giftRate": 3,
-            "name": "ドラゴンクロウ"
+            "name": "ドラゴンクロちゃん"
         },
         {
             "imageName": "angel-axe",
@@ -491,7 +491,7 @@
             "atk": 30,
             "price": 30,
             "giftRate": 1,
-            "name": "神の剣"
+            "name": "iPad没収"
         },
         {
             "imageName": "magical-stick",
@@ -907,7 +907,7 @@
             "hitRate": 75,
             "price": 6,
             "giftRate": 1,
-            "name": "火炎杯"
+            "name": "国語杯"
         },
         {
             "imageName": "chill-cup",
@@ -917,7 +917,7 @@
             "hitRate": 75,
             "price": 6,
             "giftRate": 1,
-            "name": "冷気杯"
+            "name": "数学杯"
         },
         {
             "imageName": "plant-cup",
@@ -927,7 +927,7 @@
             "hitRate": 75,
             "price": 6,
             "giftRate": 1,
-            "name": "植物杯"
+            "name": "社会杯"
         },
         {
             "imageName": "rock-cup",
@@ -937,7 +937,7 @@
             "hitRate": 75,
             "price": 6,
             "giftRate": 1,
-            "name": "岩石杯"
+            "name": "理科杯"
         },
         {
             "imageName": "oversize-snowball",
@@ -2982,11 +2982,11 @@
             "reflect": "はね返した",
             "block": "止めた",
             "safe": "無事",
-            "damage": "ダメージ",
+            "damage": "学習",
             "hp": "HP{{hp}}",
             "mp": "🖊️{{mp}}",
             "cp": "¥{{cp}}",
-            "upgradeHeaven": "発作 日頃の行い",
+            "upgradeHeaven": "学級崩壊 日頃の行い",
             "confusion": "御乱心 日頃の行い",
             "redraw": "学習道具一新",
             "die": "学習完了乙"
