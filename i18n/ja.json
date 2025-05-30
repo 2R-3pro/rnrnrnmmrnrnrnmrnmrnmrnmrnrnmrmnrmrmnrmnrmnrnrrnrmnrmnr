@@ -1986,7 +1986,7 @@
             "curse": "cold",
             "cost": 6,
             "giftRate": 1,
-            "name": "＜風＞"
+            "name": "＜内職＞"
         },
         {
             "imageName": "heaven-wind",
@@ -1995,7 +1995,7 @@
             "curse": "heaven",
             "cost": 15,
             "giftRate": 1,
-            "name": "＜天国風＞"
+            "name": "＜学級閉鎖風＞"
         },
         {
             "imageName": "fog",
@@ -2005,7 +2005,7 @@
             "curse": "fog",
             "cost": 3,
             "giftRate": 1,
-            "name": "＜霧＞"
+            "name": "＜リモート＞"
         },
         {
             "imageName": "dream",
@@ -2015,7 +2015,7 @@
             "curse": "dream",
             "cost": 6,
             "giftRate": 1,
-            "name": "＜夢＞"
+            "name": "＜散らかり＞"
         },
         {
             "imageName": "dark-cloud",
@@ -2025,7 +2025,7 @@
             "curse": "darkcloud",
             "cost": 5,
             "giftRate": 1,
-            "name": "＜暗雲＞"
+            "name": "＜最前列＞"
         },
         {
             "imageName": "flash",
@@ -2037,7 +2037,7 @@
             "curse": "flash",
             "cost": 3,
             "giftRate": 1,
-            "name": "＜閃光＞"
+            "name": "＜片手間＞"
         },
         {
             "imageName": "smoke",
@@ -2580,7 +2580,7 @@
             "abilityValue": 3,
             "guardian": "venus",
             "guardianAttackRate": 4,
-            "name": "シャーペンの罰金"
+            "name": "シャーペンの賠償金"
         },
         {
             "imageName": "little-something",
