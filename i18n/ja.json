@@ -1529,7 +1529,7 @@
             "curse": "fever",
             "price": 10,
             "giftRate": 1,
-            "name": "熱狂仮面"
+            "name": "村長の仮面"
         },
         {
             "imageName": "glittering-dress",
@@ -1618,7 +1618,7 @@
             "curse": "dream",
             "price": 15,
             "giftRate": 1,
-            "name": "夢見る帽子"
+            "name": "散らかる帽子"
         },
         {
             "imageName": "angel-armor",
@@ -1825,7 +1825,7 @@
             "ability": "setGuardian",
             "price": 10,
             "giftRate": 3,
-            "name": "守護封印のつぼ"
+            "name": "学年団封印のつぼ"
         },
         {
             "imageName": "thump-thump-tear",
