@@ -314,7 +314,7 @@
             "curse": "dream",
             "price": 10,
             "giftRate": 1,
-            "name": "いんちきスピア"
+            "name": 散らかりスピア"
         },
         {
             "imageName": "sword-shield",
@@ -1411,7 +1411,7 @@
             "def": 8,
             "price": 20,
             "giftRate": 1,
-            "name": "美しいガラス細工"
+            "name": "ダイヤのノート"
         },
         {
             "imageName": "moonlight-helm",
@@ -1635,7 +1635,7 @@
             "def": 30,
             "price": 30,
             "giftRate": 1,
-            "name": "神の盾"
+            "name": "iPad返却"
         },
         {
             "imageName": "mars-ring",
