@@ -42,7 +42,7 @@
             "atk": 1,
             "price": 1,
             "giftRate": 3,
-            "name": "銅のこん棒"
+            "name": "銅のシャーペン"
         },
         {
             "imageName": "silver-club",
@@ -50,7 +50,7 @@
             "atk": 1,
             "price": 10,
             "giftRate": 1,
-            "name": "銀のこん棒"
+            "name": "銀のシャーペン"
         },
         {
             "imageName": "gold-club",
@@ -58,7 +58,7 @@
             "atk": 1,
             "price": 25,
             "giftRate": 1,
-            "name": "金のこん棒"
+            "name": "金のシャーペン"
         },
         {
             "imageName": "blowgun",
@@ -119,7 +119,7 @@
             "isPlusAtk": true,
             "price": 3,
             "giftRate": 1,
-            "name": "ブーメラン!!"
+            "name": "ブーメラン論破!!"
         },
         {
             "imageName": "hatchet",
