@@ -2975,8 +2975,8 @@
         "effects": {
             "hit": "命中 日頃の行い",
             "miss": "外れた 日頃の行い",
-            "darkcloud": "不可避",
-            "pray": "祈った",
+            "darkcloud": "強制補習",
+            "pray": "サボった",
             "poor": "貧乏 日頃の行い",
             "bounce": "弾いた",
             "reflect": "はね返した",
