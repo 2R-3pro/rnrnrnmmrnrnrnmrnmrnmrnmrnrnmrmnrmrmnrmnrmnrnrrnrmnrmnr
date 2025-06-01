@@ -2775,14 +2775,14 @@
             "darkcloud": "全体授業を受けると<br>必ず命中する"
         },
         "guardianNames": {
-            "mars": "ymkw神",
-            "mercury": "ttzw神",
-            "jupiter": "ysn神",
-            "saturn": "arym神",
-            "uranus": "skt神",
-            "pluto": "kndu神",
+            "mars": "ymkw先生",
+            "mercury": "ttzw先生",
+            "jupiter": "ysn先生",
+            "saturn": "arym先生",
+            "uranus": "skt先生",
+            "pluto": "kndu先生",
             "neptune": "海王神",
-            "venus": "yk神",
+            "venus": "yk",
             "earth": "地球神",
             "moon": "月神"
         },
@@ -2794,7 +2794,7 @@
             "uranus": "英語を司る学年団",
             "pluto": "音楽を司る学年団",
             "neptune": "いやしを司る守護神",
-            "venus": "お金を司る会計",
+            "venus": "お金を司る生徒会会計",
             "earth": "神器を司る守護神",
             "moon": "奇跡を司る守護神"
         },
@@ -2804,9 +2804,9 @@
             "duel": "真剣マンツーマン"
         },
         "modeDescriptions": {
-            "training": "シャーペンと対戦",
-            "hidden": "先生と対戦",
-            "duel": "2人個人戦"
+            "training": "シャーペンを教育する",
+            "hidden": "先生と授業",
+            "duel": "2人個人授業"
         },
         "home": {
             "design": "設計",
