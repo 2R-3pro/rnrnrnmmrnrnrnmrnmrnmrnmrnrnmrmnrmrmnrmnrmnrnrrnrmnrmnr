@@ -2814,7 +2814,7 @@
             "art": "美術",
             "artCredit": "2R先生",
             "userName": "先生の名前",
-            "setUserName": "同行会員以外の使用を禁じます",
+            "setUserName": "同好会員以外の使用は固く禁じます",
             "userNameEmpty": "先生の名前を<br>入力してください",
             "underMaintenance": "サーバメンテナンス中です",
             "versionInvalid": "アプリの更新が<br>必要です",
@@ -2824,15 +2824,15 @@
             "about": "サービス情報",
             "version": "バージョン {{version}}",
             "soundMaterials": "効果音素材",
-            "soundMaterialsCredit": "マエバ・ティーチャー",
+            "soundMaterialsCredit": "マエヴァ・ティーチャー",
             "ptTranslation": "ポルトガル語翻訳",
             "ptTranslationCredit": "Mechanical & Pencil",
             "zhHansTranslation": "簡体字中国語翻訳",
-            "zhHansTranslationCredit": "前歯　先生　人外",
+            "zhHansTranslationCredit": "二阿亜流先生",
             "frTranslation": "フランス語翻訳",
             "frTranslationCredit": "Yoripee",
             "zhHantTranslation": "繁体字中国語翻訳",
-            "zhHantTranslationCredit": "先生遊神領域",
+            "zhHantTranslationCredit": "機械的鉛筆読悪書",
             "koTranslation": "韓国語翻訳",
             "koTranslationCredit": "Kurochan",
             "ruTranslation": "ロシア語翻訳",
@@ -2843,7 +2843,7 @@
         "menu": {
             "userCount": "先生 {{count}} 人",
             "roomPassword": "部屋の合言葉",
-            "setRoomPassword": "唱える"
+            "setRoomPassword": "授業をする"
         },
         "training": {
             "playerCount": "先生 {{count}} 人",
@@ -2851,9 +2851,9 @@
             "countOption": "{{count}}人"
         },
         "matchmaking": {
-            "addUser": "戦う",
+            "addUser": "授業をする",
             "removeUser": "取り消す",
-            "matchmaking": "索敵中"
+            "matchmaking": "索生徒中"
         },
         "record": {
             "ranking": "ランキング",
@@ -2861,20 +2861,20 @@
             "gameCount": "{{count}} 試合"
         },
         "room": {
-            "showChat": "お告げを表示する",
-            "deny": "追放する",
-            "chat": "お告げ",
-            "chatToRoom": "部屋にお告げ",
-            "chatToTeam": "チームにお告げ",
-            "chatLog": "お告げの記録",
+            "showChat": "発表を表示する",
+            "deny": "廊下に立たせる",
+            "chat": "発表",
+            "chatToRoom": "全体に発表",
+            "chatToTeam": "班にお告げ",
+            "chatLog": "発表の記録",
             "userCount": "先生 {{count}} 人",
             "users": "先生",
             "full": "満員",
-            "giveUp": "戦いをあきらめる"
+            "giveUp": "授業をあきらめる"
         },
         "entry": {
-            "solo": "個人戦",
-            "teams": "チーム戦",
+            "solo": "個人授業",
+            "teams": "チーム授業",
             "shuffleTeams": "チームをシャッフル",
             "tiebreaker": "放課後",
             "tiebreakerOff": "なし",
