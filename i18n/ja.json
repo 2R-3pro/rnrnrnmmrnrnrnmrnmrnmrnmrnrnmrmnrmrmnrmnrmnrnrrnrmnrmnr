@@ -2675,21 +2675,21 @@
             "category": "phenomena",
             "guardian": "venus",
             "ability": "collectCPOfEverybody",
-            "name": "金山"
+            "name": "巻き上げ"
         },
         {
             "imageName": "magnetic-storm",
             "category": "phenomena",
             "guardian": "earth",
             "ability": "shuffleItemsOfEverybody",
-            "name": "磁気嵐"
+            "name": "授業交換"
         },
         {
             "imageName": "solar-eclipse",
             "category": "phenomena",
             "guardian": "moon",
             "ability": "setGuardianOfEverybody",
-            "name": "日食"
+            "name": "学年集会"
         }
     ],
     "texts": {
