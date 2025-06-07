@@ -250,7 +250,7 @@
             "curse": "hell",
             "price": 15,
             "giftRate": 1,
-            "name": "地獄のハサミ"
+            "name": "いじめのハサミ"
         },
         {
             "imageName": "psychic-card",
@@ -277,7 +277,7 @@
             "curse": "cold",
             "price": 10,
             "giftRate": 1,
-            "name": "疾風剣"
+            "name": "内職剣"
         },
         {
             "imageName": "angel-knife",
@@ -359,7 +359,7 @@
             "curse": "darkcloud",
             "price": 15,
             "giftRate": 1,
-            "name": "六角凶"
+            "name": "六角席替え"
         },
         {
             "imageName": "horror-wheel",
@@ -412,7 +412,7 @@
             "curse": "cold",
             "price": 15,
             "giftRate": 1,
-            "name": "激烈疾風剣"
+            "name": "激烈内職剣"
         },
         {
             "imageName": "legendary-scabbard",
@@ -499,7 +499,7 @@
             "ability": "atkBy2xMP",
             "price": 10,
             "giftRate": 1,
-            "name": "マジカルステッキ"
+            "name": "シャーペンステッキ"
         },
         {
             "imageName": "torch",
@@ -876,7 +876,7 @@
             "curse": "fog",
             "price": 8,
             "giftRate": 1,
-            "name": "霧の扇"
+            "name": "リモートの扇"
         },
         {
             "imageName": "vine-shoot",
@@ -967,7 +967,7 @@
             "hitRate": 75,
             "price": 10,
             "giftRate": 1,
-            "name": "光のオーブ"
+            "name": "英語のオーブ"
         },
         {
             "imageName": "fire-shower",
@@ -1030,7 +1030,7 @@
             "abilityValue": 30,
             "price": 10,
             "giftRate": 1,
-            "name": "昇天弓"
+            "name": "学習完了弓"
         },
         {
             "imageName": "leather-cap",
