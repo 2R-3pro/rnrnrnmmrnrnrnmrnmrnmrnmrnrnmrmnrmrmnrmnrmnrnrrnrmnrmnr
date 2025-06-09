@@ -947,7 +947,7 @@
             "hitRate": 50,
             "price": 5,
             "giftRate": 1,
-            "name": "特大雪玉"
+            "name": "特大シャーペン"
         },
         {
             "imageName": "cliff-hammer",
@@ -1030,7 +1030,7 @@
             "abilityValue": 30,
             "price": 10,
             "giftRate": 1,
-            "name": "学習完了弓"
+            "name": "学習完了シャーペン"
         },
         {
             "imageName": "leather-cap",
