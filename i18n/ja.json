@@ -2452,7 +2452,7 @@
             "ability": "absorbHP",
             "guardian": "uranus",
             "guardianAttackRate": 3,
-            "name": "祝福"
+            "name": "没収(キル)"
         },
         {
             "imageName": "laser-beam",
@@ -2613,7 +2613,7 @@
             "atk": 10,
             "ability": "categoryWeapons",
             "guardian": "moon",
-            "name": "満月刀"
+            "name": "シャーペン刀"
         },
         {
             "imageName": "afterglow",
@@ -2730,7 +2730,7 @@
             "usedMiraclesNote": "一度起こした奇跡は、売る、買う、夜空のシャーペンの対象にならない。",
             "devilsNote": "終末の時以降、神器を授かるたびに日頃の行いが悪いと問題児が現れる。",
             "earthNote": "地球神は取引、授業、ノート、文房具を使う。",
-            "moonNote": "月神は奇跡を使う。",
+            "moonNote": "シャーペン先生(シャ生)は奇跡を使う。",
             "guardianAttackNote": "学年団は敵のターンのあとに日頃の行いがいいと行動する。",
             "guardiansNote": "学年団はダメージを受けると日頃の行いが悪いと去る。",
             "giftRate": "授かり率",
@@ -2781,7 +2781,7 @@
             "saturn": "arym先生",
             "uranus": "skt先生",
             "pluto": "kndu先生",
-            "neptune": "えーりん",
+            "neptune": "えーりん！",
             "venus": "yk",
             "earth": "地球神",
             "moon": "シャーペン先生(シャ生)"
