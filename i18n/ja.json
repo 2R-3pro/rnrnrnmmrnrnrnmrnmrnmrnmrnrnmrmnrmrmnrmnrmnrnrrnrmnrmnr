@@ -988,7 +988,7 @@
             "def": 6,
             "price": 15,
             "giftRate": 1,
-            "name": "魔神の木馬"
+            "name": "公民プリント"
         },
         {
             "imageName": "rain-deity-s-saber",
@@ -998,7 +998,7 @@
             "hitRate": 50,
             "price": 9,
             "giftRate": 1,
-            "name": "雨神刀"
+            "name": "教室見回り"
         },
         {
             "imageName": "flare-axe",
