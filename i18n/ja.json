@@ -2937,12 +2937,12 @@
             "dealDamage": "{{damage}}理解不足",
             "revive": "評点0になると<br>+評点{{hp}}",
             "setHPOfEverybody": "みんなの評点が{{hp}}になる",
-            "absorbHP": "評点を吸収する",
+            "absorbHP": "評点を吸収する(カス)",
             "dealSameDamage": "使用者に同じ理解不足",
             "boostMP": "+🖊️{{mp}}",
             "counterBoost2xMP": "+🖊️{理解不足×2}",
             "consumeAllMP": "🖊️をすべて消費する",
-            "cutCost": "消費なしでレポートを書く",
+            "cutCost": "🖊️消費なしでレポートを書く",
             "boostCP": "+¥{{cp}}",
             "boostCPToEnemy": "敵にあげる",
             "boostCPOfEverybody": "みんなにあげる",
@@ -2966,30 +2966,30 @@
             "callPhenomenon": "超常現象が起こる"
         },
         "alerts": {
-            "pray": "授業を所持しているとサボれない",
+            "pray": "授業を所持しているとサボれない乙！",
             "discard": "捨てる学習道具が選ばれていない",
             "sacrifice": "ささげる学習道具が選ばれていない",
             "sell": "売る学習道具が選ばれていない",
-            "miracles": "🖊️が足りない"
+            "miracles": "🖊️が足りない　日頃の行い"
         },
         "effects": {
             "hit": "命中 日頃の行い",
             "miss": "外れた 日頃の行い",
-            "darkcloud": "強制補習",
-            "pray": "サボった",
+            "darkcloud": "強制補習　日頃の行い",
+            "pray": "サボった　日頃の行い",
             "poor": "貧乏 日頃の行い",
             "bounce": "弾いた",
             "reflect": "ブーメランした",
             "block": "止めた",
             "safe": "理解",
-            "damage": "理解不足",
+            "damage": "理解不足　日頃の行い",
             "hp": "評点{{hp}}",
             "mp": "🖊️{{mp}}",
             "cp": "¥{{cp}}",
             "upgradeHeaven": "学級崩壊 日頃の行い",
             "confusion": "学級戦争 日頃の行い",
-            "redraw": "学習道具一新",
-            "die": "留年乙"
+            "redraw": "学習道具一新　日頃の行い",
+            "die": "留年乙！！！"
         }
     }
 }
