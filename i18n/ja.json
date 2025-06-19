@@ -93,7 +93,7 @@
             "isPlusAtk": true,
             "price": 2,
             "giftRate": 1,
-            "name": "クロスボウ"
+            "name": "クロちゃんボウ"
         },
         {
             "imageName": "punch",
@@ -508,7 +508,7 @@
             "atk": 1,
             "price": 1,
             "giftRate": 1,
-            "name": "たいまつ"
+            "name": "国1小テスト"
         },
         {
             "imageName": "icicle",
@@ -517,7 +517,7 @@
             "atk": 1,
             "price": 1,
             "giftRate": 1,
-            "name": "つらら"
+            "name": "計算練習"
         },
         {
             "imageName": "wooden-sword",
@@ -526,7 +526,7 @@
             "atk": 1,
             "price": 1,
             "giftRate": 1,
-            "name": "木刀"
+            "name": "ajk公民レジュメ"
         },
         {
             "imageName": "wind-talons",
@@ -556,7 +556,7 @@
             "atk": 1,
             "price": 10,
             "giftRate": 1,
-            "name": "ちくりんちょ"
+            "name": "tgkの陰謀論"
         },
         {
             "imageName": "ouch-knife",
@@ -635,7 +635,7 @@
             "curse": "fog",
             "price": 10,
             "giftRate": 1,
-            "name": "計算練習"
+            "name": "数B小テスト"
         },
         {
             "imageName": "bur-nut",
@@ -730,7 +730,7 @@
             "atk": 5,
             "price": 5,
             "giftRate": 1,
-            "name": "国1小テスト"
+            "name": "国2小テスト"
         },
         {
             "imageName": "wand-of-mystic-water",
