@@ -1930,7 +1930,7 @@
             "atk": 6,
             "cost": 3,
             "giftRate": 1,
-            "name": "＜大木＞"
+            "name": "＜多角的に論ぜよ＞"
         },
         {
             "imageName": "rock",
@@ -1948,7 +1948,7 @@
             "atk": 10,
             "cost": 5,
             "giftRate": 1,
-            "name": "＜炎＞"
+            "name": "＜炎上＞"
         },
         {
             "imageName": "absorption",
@@ -1958,7 +1958,7 @@
             "ability": "absorbHP",
             "cost": 10,
             "giftRate": 1,
-            "name": "＜吸収＞"
+            "name": "＜没収＞"
         },
         {
             "imageName": "meteor",
@@ -1968,7 +1968,7 @@
             "isPlusAtk": true,
             "cost": 7,
             "giftRate": 1,
-            "name": "＜流星＞"
+            "name": "＜荒井自習課題＞"
         },
         {
             "imageName": "waterfall",
@@ -2047,7 +2047,7 @@
             "hitRate": 75,
             "cost": 4,
             "giftRate": 1,
-            "name": "＜煙＞"
+            "name": "＜小嶋の指名＞"
         },
         {
             "imageName": "avalanche",
@@ -2077,7 +2077,7 @@
             "hitRate": 50,
             "cost": 6,
             "giftRate": 1,
-            "name": "＜土石流＞"
+            "name": "＜長瀞実習＞"
         },
         {
             "imageName": "magma",
@@ -2106,7 +2106,7 @@
             "ability": "doubleAtk",
             "cost": 6,
             "giftRate": 1,
-            "name": "＜オーラ＞"
+            "name": "＜f(x)=2x＞"
         },
         {
             "imageName": "mirage",
@@ -2175,7 +2175,7 @@
             "ability": "setGuardian",
             "cost": 15,
             "giftRate": 1,
-            "name": "＜解放＞"
+            "name": "＜説教＞"
         },
         {
             "imageName": "small-devil",
@@ -2509,7 +2509,7 @@
             "atk": 8,
             "guardian": "pluto",
             "guardianAttackRate": 2,
-            "name": "挙手"
+            "name": "スマホ発見"
         },
         {
             "imageName": "sound-of-ripples",
@@ -2644,7 +2644,7 @@
             "guardian": "saturn",
             "ability": "setHPOfEverybody",
             "abilityValue": 1,
-            "name": "竜巻"
+            "name": "定期テスト"
         },
         {
             "imageName": "gigantic-tub",
@@ -2897,7 +2897,7 @@
             "pray": "サボる",
             "forgive": "許す",
             "bounce": "弾く",
-            "reflect": "ブーメランする",
+            "reflect": "ブーメラン！！",
             "block": "止める",
             "doBuy": "買う",
             "doNotBuy": "買わない",
