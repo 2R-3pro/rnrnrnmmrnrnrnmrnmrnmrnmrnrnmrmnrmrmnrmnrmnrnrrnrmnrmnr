@@ -1958,7 +1958,7 @@
             "ability": "absorbHP",
             "cost": 10,
             "giftRate": 1,
-            "name": "＜没収＞"
+            "name": "＜スマホ没収＞"
         },
         {
             "imageName": "meteor",
@@ -1968,7 +1968,7 @@
             "isPlusAtk": true,
             "cost": 7,
             "giftRate": 1,
-            "name": "＜荒井自習課題＞"
+            "name": "＜ari自習課題＞"
         },
         {
             "imageName": "waterfall",
@@ -1977,7 +1977,7 @@
             "atk": 25,
             "cost": 12,
             "giftRate": 1,
-            "name": "＜滝＞"
+            "name": "＜数学B課題＞"
         },
         {
             "imageName": "wind",
@@ -2047,7 +2047,7 @@
             "hitRate": 75,
             "cost": 4,
             "giftRate": 1,
-            "name": "＜小嶋の指名＞"
+            "name": "＜kjmの指名＞"
         },
         {
             "imageName": "avalanche",
