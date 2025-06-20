@@ -439,7 +439,7 @@
             "isPlusAtk": true,
             "price": 10,
             "giftRate": 1,
-            "name": "小間コンバット"
+            "name": "小間クンバット"
         },
         {
             "imageName": "violent-flail",
@@ -565,7 +565,7 @@
             "atk": 2,
             "price": 2,
             "giftRate": 1,
-            "name": "あちちナイフ"
+            "name": "詰め込み教育"
         },
         {
             "imageName": "wand-of-ignition",
@@ -595,7 +595,7 @@
             "isPlusAtk": true,
             "price": 4,
             "giftRate": 1,
-            "name": "葉っぱ手裏剣"
+            "name": "wtbのジグソー"
         },
         {
             "imageName": "sword-ware",
@@ -1921,7 +1921,7 @@
             "atk": 5,
             "cost": 5,
             "giftRate": 1,
-            "name": "＜闇＞"
+            "name": "＜おはゆー＞"
         },
         {
             "imageName": "big-tree",
@@ -2067,7 +2067,7 @@
             "hitRate": 25,
             "cost": 4,
             "giftRate": 1,
-            "name": "＜雷＞"
+            "name": "＜GTEC＞"
         },
         {
             "imageName": "mudflow",
@@ -2097,7 +2097,7 @@
             "hitRate": 75,
             "cost": 30,
             "giftRate": 1,
-            "name": "＜氷河期＞"
+            "name": "＜課題点なし＞"
         },
         {
             "imageName": "aura",
@@ -2159,7 +2159,7 @@
             "ability": "removeMildCurses",
             "cost": 2,
             "giftRate": 1,
-            "name": "＜音色＞"
+            "name": "＜1人カラオケ＞"
         },
         {
             "imageName": "song",
@@ -2167,7 +2167,7 @@
             "ability": "removeAllCurses",
             "cost": 5,
             "giftRate": 1,
-            "name": "＜歌声＞"
+            "name": "＜クロちゃんの素晴らしき歌声＞"
         },
         {
             "imageName": "release",
@@ -2605,7 +2605,7 @@
             "category": "guardians",
             "ability": "addItem",
             "guardian": "earth",
-            "name": "もらす"
+            "name": "情報漏洩"
         },
         {
             "imageName": "full-moon-blade",
@@ -2722,14 +2722,14 @@
             "lightNote": "{{light}}は、{{fire}}、{{water}}、{{wood}}、{{stone}}の代わりになれる。",
             "diseasesNote": "トラブルは日頃の行いが悪いと悪化する。",
             "diseaseUpgradeNote": "トラブルにトラブルを重ねると悪化する。",
-            "fogNote": "リモートの中から敵に授業を使う場合、使用先は日頃の行いが悪い敵の中から無作為に選ばれる。",
+            "fogNote": "リモートの中から敵に授業を使う場合、使用先は敵の中から特に日頃の行いが悪い者が選ばれる。",
             "discardNote": "授業、不死のトーテム、あぶない肩は捨てられない。",
             "sacrificeNote": "放課後になると、捨てるはささげるに置き換わる。",
             "bounceNote": "授業を弾くと、その授業は日頃の行いが悪い人に向かう。",
             "miraclesNote": "レポートを書くと🖊️を消費するが何度でも使える。",
             "usedMiraclesNote": "一度書いたレポートは、売る、買う、夜空のシャーペンの対象にならない。",
             "devilsNote": "放課後になると、学習道具を授かるたびに日頃の行いが悪いと問題児が現れて学習を妨害する。",
-            "earthNote": "地球神は取引、授業、ノート、文房具を使う。",
+            "earthNote": "前歯先生は取引、授業、ノート、文房具を使う。",
             "moonNote": "シャーペン先生(シャ生)はレポートを使う。",
             "guardianAttackNote": "学年団は敵のターンのあとに日頃の行いがいいと行動する。",
             "guardiansNote": "学年団はダメージを受けると日頃の行いが悪いと去る。",
@@ -2870,7 +2870,7 @@
             "userCount": "先生 {{count}} 人",
             "users": "先生",
             "full": "満員",
-            "giveUp": "授業をあきらめる"
+            "giveUp": "授業を放棄する"
         },
         "entry": {
             "solo": "個人授業",
@@ -2925,9 +2925,9 @@
             "attractDanger": "あぶないシャーペンから<br>99理解不足",
             "attackDyingly": "留年のとき75%攻30",
             "filterAtkElement": "授業の教科を<br>こし取る",
-            "bounceWeapon": "自習授業を弾く",
-            "reflectWeapon": "自習授業をブーメランする",
-            "blockWeapon": "自習授業を止める",
+            "bounceWeapon": "自習を弾く",
+            "reflectWeapon": "自習をブーメランする",
+            "blockWeapon": "自習を止める",
             "bounceMiracle": "レポートを弾く",
             "reflectMiracle": "レポートをブーメランする",
             "blockMiracle": "レポートを止める",
@@ -2958,10 +2958,10 @@
             "removeAllCurses": "すべての<br>トラブルを解決する",
             "setGuardian": "学年団が宿る",
             "setGuardianOfEverybody": "みんなに学年団が宿る",
-            "confuseEverybody": "みんなが三回ずつ<br>勝手に行動する",
+            "confuseEverybody": "みんなが三回ずつ<br>発作を起こす",
             "removeItems": "学習道具を<br>三個掃き飛ばす",
-            "removeUsedMiracles": "書いたレポートを<br>二個洗い流す",
-            "removeSomething": "学習道具か書いたレポートを<br>二個盗む",
+            "removeUsedMiracles": "書いたレポートを<br>二本査読し失格にする",
+            "removeSomething": "学習道具か書いたレポートを<br>二本盗む",
             "shuffleItemsOfEverybody": "みんなの学習道具が<br>無作為に入れ替わる",
             "callPhenomenon": "超常現象が起こる"
         },
