@@ -2732,7 +2732,7 @@
             "earthNote": "前歯先生は取引、授業、ノート、文房具を使う。",
             "moonNote": "シャーペン先生(シャ生)はレポートを使う。",
             "guardianAttackNote": "学年団は敵のターンのあとに日頃の行いがいいと行動する。",
-            "guardiansNote": "学年団はダメージを受けると日頃の行いが悪いと去る。",
+            "guardiansNote": "学年団は減点されると日頃の行いが悪いと去る。",
             "giftRate": "授かり率",
             "appearanceRate": "出現率",
             "guardianAttackRate": "行動率"
@@ -2752,7 +2752,7 @@
             "wood": "{{wood}}の授業は、{{stone}}でノートがとれる。",
             "stone": "{{stone}}の授業は、{{wood}}でノートがとれる。",
             "light": "{{light}}の授業は、どの教科でもノートがとれない。",
-            "darkness": "{{darkness}}の授業は、どの教科でもノートがとれる。<br>ただし、理解不足を起こすと評点0になる。"
+            "darkness": "{{darkness}}の授業は、どの教科でもノートがとれる。<br>ただし、減点されると評点0になる。"
         },
         "curseNames": {
             "cold": "内職",
@@ -2765,10 +2765,10 @@
             "darkcloud": "最前列"
         },
         "curseDescriptions": {
-            "cold": "毎ターン1理解不足<br>(悪化するとスラム街)",
-            "fever": "毎ターン2理解不足<br>(悪化するといじめ)",
-            "hell": "毎ターン5理解不足<br>(悪化すると学級閉鎖)",
-            "heaven": "毎ターン+評点5<br>(悪化すると学級崩壊を起こす)",
+            "cold": "毎ターン1点減点<br>(悪化するとスラム街)",
+            "fever": "毎ターン2点減点<br>(悪化するといじめ)",
+            "hell": "毎ターン5点減点<br>(悪化すると学級閉鎖)",
+            "heaven": "毎ターン5点加点<br>(悪化すると学級崩壊を起こす)",
             "fog": "周りの状況が<br>わからなくなる",
             "flash": "ノートをとるときに学習道具を<br>一つしか使えない",
             "dream": "授かった学習道具が50%の<br>確率で別の学習道具に見える",
@@ -2917,13 +2917,13 @@
             "addItem": "学習道具を一個もらす",
             "setElement": "{{element}}に染める",
             "doubleAtk": "授業を倍にする",
-            "counterAtk": "教{理解不足}",
-            "counter2xAtk": "教{理解不足×2}",
+            "counterAtk": "教{減点}",
+            "counter2xAtk": "教{減点×2}",
             "attackTwice": "二回授業する",
             "attackEveryEnemy": "すべての敵に<br>授業する",
             "attackSomebody": "日頃の行いが悪い人に授業する",
-            "attractDanger": "あぶないシャーペンから<br>99理解不足",
-            "attackDyingly": "留年のとき75%攻30",
+            "attractDanger": "あぶないシャーペンから<br>99減点",
+            "attackDyingly": "留年のとき75%教30",
             "filterAtkElement": "授業の教科を<br>こし取る",
             "bounceWeapon": "自習を弾く",
             "reflectWeapon": "自習をブーメランする",
@@ -2940,7 +2940,7 @@
             "absorbHP": "評点を吸収する(カス)",
             "dealSameDamage": "使用者に同じ減点",
             "boostMP": "+🖊️{{mp}}",
-            "counterBoost2xMP": "+🖊️{理解不足×2}",
+            "counterBoost2xMP": "+🖊️{減点×2}",
             "consumeAllMP": "🖊️をすべて消費する",
             "cutCost": "🖊️消費なしでレポートを書く",
             "boostCP": "+¥{{cp}}",
@@ -2948,7 +2948,7 @@
             "boostCPOfEverybody": "みんなにあげる",
             "collectCPOfEverybody": "みんなの金が<br>日頃の行いがいい人に集まる",
             "takeCP": "¥{{cp}} 没収",
-            "counterTakeCP": "¥{理解不足} 没収",
+            "counterTakeCP": "¥{減点} 没収",
             "boostSomething": "+評点{{value}} +🖊️{{value}}<br>または +¥{{value}}",
             "addCurseOnDamage": "減点で{{curse}}",
             "selfCurse": "使用者に{{curse}}",
@@ -2966,7 +2966,7 @@
             "callPhenomenon": "超常現象が起こる"
         },
         "alerts": {
-            "pray": "授業を所持しているとサボれない乙！",
+            "pray": "授業を所持しているとサボれない",
             "discard": "捨てる学習道具が選ばれていない",
             "sacrifice": "ささげる学習道具が選ばれていない",
             "sell": "売る学習道具が選ばれていない",
