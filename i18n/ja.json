@@ -421,7 +421,7 @@
             "def": 1,
             "price": 3,
             "giftRate": 1,
-            "name": "伝説の剣のさや"
+            "name": "伝説のシャーペンの芯"
         },
         {
             "imageName": "angel-sword",
@@ -730,7 +730,7 @@
             "atk": 5,
             "price": 5,
             "giftRate": 1,
-            "name": "国2小テスト"
+            "name": "国2classroom課題"
         },
         {
             "imageName": "wand-of-mystic-water",
@@ -1074,7 +1074,7 @@
             "def": 1,
             "price": 2,
             "giftRate": 1,
-            "name": "石版"
+            "name": "光る石版"
         },
         {
             "imageName": "leather-clothes",
@@ -1563,7 +1563,7 @@
             "def": 12,
             "price": 10,
             "giftRate": 2,
-            "name": "コアバリヤー"
+            "name": "GoodNotes"
         },
         {
             "imageName": "spiritual-sash",
@@ -1939,7 +1939,7 @@
             "atk": 8,
             "cost": 4,
             "giftRate": 1,
-            "name": "＜岩＞"
+            "name": "＜岩石鑑定テスト＞"
         },
         {
             "imageName": "flame",
@@ -2276,7 +2276,7 @@
             "curse": "fog",
             "guardian": "mercury",
             "guardianAttackRate": 6,
-            "name": "霧雨"
+            "name": "リモート雨"
         },
         {
             "imageName": "misty-breath",
@@ -2355,7 +2355,7 @@
             "curse": "dream",
             "guardian": "jupiter",
             "guardianAttackRate": 3,
-            "name": "紅葉"
+            "name": "ks生に足りないのは生活力だ"
         },
         {
             "imageName": "dance-of-fallen-leaves",
@@ -2367,7 +2367,7 @@
             "curse": "dream",
             "guardian": "jupiter",
             "guardianAttackRate": 2,
-            "name": "落ち葉の舞"
+            "name": "それが君たちの傲慢さだよ"
         },
         {
             "imageName": "pebble",
@@ -2452,7 +2452,7 @@
             "ability": "absorbHP",
             "guardian": "uranus",
             "guardianAttackRate": 3,
-            "name": "没収(キル)"
+            "name": "平常点減点"
         },
         {
             "imageName": "laser-beam",
