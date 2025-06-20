@@ -341,7 +341,7 @@
             "ability": "reflectMiracle",
             "price": 10,
             "giftRate": 1,
-            "name": "月光のオノ"
+            "name": "ブーメランのオノ"
         },
         {
             "imageName": "gravity-mace",
@@ -1420,7 +1420,7 @@
             "ability": "reflectMiracle",
             "price": 10,
             "giftRate": 1,
-            "name": "月光のかぶと"
+            "name": "ブーメランのかぶと"
         },
         {
             "imageName": "burning-jacket",
@@ -1518,7 +1518,7 @@
             "ability": "reflectMiracle",
             "price": 10,
             "giftRate": 1,
-            "name": "月光の盾"
+            "name": "ブーメランの盾"
         },
         {
             "imageName": "fever-mask",
@@ -1581,7 +1581,7 @@
             "ability": "reflectMiracle",
             "price": 10,
             "giftRate": 1,
-            "name": "月光のよろい"
+            "name": "ブーメランのよろい"
         },
         {
             "imageName": "heat-haze-armor",
@@ -1720,7 +1720,7 @@
             "ability": "filterAtkElement",
             "price": 15,
             "giftRate": 3,
-            "name": "虹のカーテン"
+            "name": "虹のシャーペン"
         },
         {
             "imageName": "super-mirror",
@@ -2123,7 +2123,7 @@
             "ability": "blockWeapon",
             "cost": 6,
             "giftRate": 1,
-            "name": "＜壁＞"
+            "name": "＜肉壁＞"
         },
         {
             "imageName": "turbulence",
@@ -2462,7 +2462,7 @@
             "hitRate": 75,
             "guardian": "uranus",
             "guardianAttackRate": 2,
-            "name": "レーザービーム"
+            "name": "二日酔い"
         },
         {
             "imageName": "thinking",
@@ -2589,7 +2589,7 @@
             "abilityValue": 8,
             "guardian": "venus",
             "guardianAttackRate": 3,
-            "name": "つまらない物"
+            "name": "This is nothing"
         },
         {
             "imageName": "luxury-accessory",
@@ -2598,7 +2598,7 @@
             "abilityValue": 20,
             "guardian": "venus",
             "guardianAttackRate": 2,
-            "name": "豪華なアクセサリー"
+            "name": "高級シャーペン"
         },
         {
             "imageName": "drop",
@@ -2726,7 +2726,7 @@
             "discardNote": "授業、不死のトーテム、あぶない肩は捨てられない。",
             "sacrificeNote": "放課後になると、捨てるはささげるに置き換わる。",
             "bounceNote": "授業を弾くと、その授業は日頃の行いが悪い人に向かう。",
-            "miraclesNote": "レポートを書くと🖊️を消費するが何度でも使える。",
+            "miraclesNote": "レポートを書くと🖊️を消費するが何度でも書き直せる。",
             "usedMiraclesNote": "一度書いたレポートは、売る、買う、夜空のシャーペンの対象にならない。",
             "devilsNote": "放課後になると、学習道具を授かるたびに日頃の行いが悪いと問題児が現れて学習を妨害する。",
             "earthNote": "前歯先生は取引、授業、ノート、文房具を使う。",
@@ -2769,7 +2769,7 @@
             "fever": "毎ターン2点減点<br>(悪化するといじめ)",
             "hell": "毎ターン5点減点<br>(悪化すると学級閉鎖)",
             "heaven": "毎ターン5点加点<br>(悪化すると学級崩壊を起こす)",
-            "fog": "周りの状況が<br>わからなくなる",
+            "fog": "周りの状況が<br>これもうわかんねぇな",
             "flash": "ノートをとるときに学習道具を<br>一つしか使えない",
             "dream": "授かった学習道具が50%の<br>確率で別の学習道具に見える",
             "darkcloud": "全体授業を受けると<br>必ず命中する"
@@ -2874,8 +2874,8 @@
         },
         "entry": {
             "solo": "個人授業",
-            "teams": "チーム授業",
-            "shuffleTeams": "チームをシャッフル",
+            "teams": "戦略的パートナーシップ授業",
+            "shuffleTeams": "パートナーをシャッフル",
             "tiebreaker": "放課後",
             "tiebreakerOff": "なし",
             "addGame": "授業を始める"
@@ -2895,10 +2895,10 @@
             "cost": "消費<br>🖊️{{mp}}",
             "flash": "忙しい",
             "pray": "サボる",
-            "forgive": "許す",
+            "forgive": "畜生めぇーーー!!!",
             "bounce": "弾く",
             "reflect": "ブーメラン！！",
-            "block": "止める",
+            "block": "the world!",
             "doBuy": "買う",
             "doNotBuy": "買わない",
             "opening": "先生たちの戦いが<br>今始まる！",
@@ -2924,7 +2924,7 @@
             "attackSomebody": "日頃の行いが悪い人に授業する",
             "attractDanger": "あぶないシャーペンから<br>99減点",
             "attackDyingly": "留年のとき75%教30",
-            "filterAtkElement": "授業の教科を<br>こし取る",
+            "filterAtkElement": "授業をこっそり<br>自習にする",
             "bounceWeapon": "自習を弾く",
             "reflectWeapon": "自習をブーメランする",
             "blockWeapon": "自習を止める",
@@ -2963,7 +2963,7 @@
             "removeUsedMiracles": "書いたレポートを<br>二本査読し失格にする",
             "removeSomething": "学習道具か書いたレポートを<br>二本盗む",
             "shuffleItemsOfEverybody": "みんなの学習道具が<br>無作為に入れ替わる",
-            "callPhenomenon": "超常現象が起こる"
+            "callPhenomenon": "ビッグバンが起こる"
         },
         "alerts": {
             "pray": "授業を所持しているとサボれない",
@@ -2979,7 +2979,7 @@
             "pray": "サボった　日頃の行い",
             "poor": "貧乏 日頃の行い",
             "bounce": "弾いた",
-            "reflect": "ブーメランした",
+            "reflect": "ブーメランとしか言いようがない!!!",
             "block": "止めた",
             "safe": "理解",
             "damage": "減点　日頃の行い",
