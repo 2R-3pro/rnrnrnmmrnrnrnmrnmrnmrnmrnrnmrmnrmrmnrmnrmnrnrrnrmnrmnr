@@ -394,7 +394,7 @@
             "ability": "cutCost",
             "price": 20,
             "giftRate": 1,
-            "name": "精霊の杖"
+            "name": "高級住宅街の杖"
         },
         {
             "imageName": "spear-in-fine-view",
@@ -864,7 +864,7 @@
             "hitRate": 50,
             "price": 8,
             "giftRate": 1,
-            "name": "シャドウハンド"
+            "name": "シャーペンハンド"
         },
         {
             "imageName": "fog-fan",
@@ -1065,7 +1065,7 @@
             "def": 1,
             "price": 2,
             "giftRate": 1,
-            "name": "草かんむり"
+            "name": "艸"
         },
         {
             "imageName": "slate",
@@ -1091,7 +1091,7 @@
             "def": 2,
             "price": 4,
             "giftRate": 1,
-            "name": "火花の手袋"
+            "name": "ヒバナの手袋"
         },
         {
             "imageName": "aqua-glove",
@@ -1136,7 +1136,7 @@
             "def": 3,
             "price": 10,
             "giftRate": 1,
-            "name": "鬼のくつ"
+            "name": "シャーペンのくつ"
         },
         {
             "imageName": "sky-gauntlet",
@@ -1243,7 +1243,7 @@
             "def": 5,
             "price": 15,
             "giftRate": 1,
-            "name": "鬼の小手"
+            "name": "シャーペンの小手"
         },
         {
             "imageName": "sky-helm",
@@ -1305,7 +1305,7 @@
             "ability": "cutCost",
             "price": 20,
             "giftRate": 1,
-            "name": "精霊の足袋"
+            "name": "高級住宅街の足袋"
         },
         {
             "imageName": "flame-armor",
@@ -1368,7 +1368,7 @@
             "def": 7,
             "price": 15,
             "giftRate": 1,
-            "name": "鬼のかぶと"
+            "name": "シャーペンのかぶと"
         },
         {
             "imageName": "sky-shield",
@@ -1474,7 +1474,7 @@
             "def": 9,
             "price": 20,
             "giftRate": 1,
-            "name": "鬼のよろい"
+            "name": "シャーペンのよろい"
         },
         {
             "imageName": "spiritual-hood",
@@ -1483,7 +1483,7 @@
             "ability": "cutCost",
             "price": 20,
             "giftRate": 1,
-            "name": "精霊の頭巾"
+            "name": "高級住宅街の頭巾"
         },
         {
             "imageName": "sky-armor",
@@ -1851,7 +1851,7 @@
             "ability": "cutCost",
             "price": 5,
             "giftRate": 2,
-            "name": "精霊の筆箱"
+            "name": "高級住宅街の筆箱"
         },
         {
             "imageName": "nocturnal-broom",
