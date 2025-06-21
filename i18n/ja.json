@@ -1572,7 +1572,7 @@
             "ability": "cutCost",
             "price": 20,
             "giftRate": 1,
-            "name": "精霊の帯"
+            "name": "高級住宅街の帯"
         },
         {
             "imageName": "moonlight-armor",
@@ -1720,7 +1720,7 @@
             "ability": "filterAtkElement",
             "price": 15,
             "giftRate": 3,
-            "name": "虹のシャーペン"
+            "name": "自由帳"
         },
         {
             "imageName": "super-mirror",
