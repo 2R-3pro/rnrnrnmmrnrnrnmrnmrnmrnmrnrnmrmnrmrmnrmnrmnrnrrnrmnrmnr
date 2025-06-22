@@ -1189,7 +1189,7 @@
             "def": 4,
             "price": 4,
             "giftRate": 8,
-            "name": "サインシールド"
+            "name": "マエバシールド"
         },
         {
             "imageName": "flame-helm",
@@ -1233,7 +1233,7 @@
             "def": 5,
             "price": 5,
             "giftRate": 8,
-            "name": "サインアーマー"
+            "name": "マエバアーマー"
         },
         {
             "imageName": "ogres-gauntlet",
