@@ -2087,7 +2087,7 @@
             "hitRate": 75,
             "cost": 10,
             "giftRate": 1,
-            "name": "＜マグマ＞"
+            "name": "＜iPadロック＞"
         },
         {
             "imageName": "ice-age",
@@ -2151,7 +2151,7 @@
             "abilityValue": 10,
             "cost": 5,
             "giftRate": 1,
-            "name": "＜財宝＞"
+            "name": "＜ポーカーで大勝利＞"
         },
         {
             "imageName": "tone",
@@ -2873,7 +2873,7 @@
             "giveUp": "授業を放棄する"
         },
         "entry": {
-            "solo": "個人授業",
+            "solo": "一人授業",
             "teams": "戦略的パートナーシップ授業",
             "shuffleTeams": "パートナーをシャッフル",
             "tiebreaker": "放課後",
