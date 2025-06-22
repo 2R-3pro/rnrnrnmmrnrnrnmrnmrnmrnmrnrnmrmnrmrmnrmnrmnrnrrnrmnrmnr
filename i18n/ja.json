@@ -1038,7 +1038,7 @@
             "def": 1,
             "price": 1,
             "giftRate": 10,
-            "name": "革の帽子"
+            "name": "にーらいの帽子"
         },
         {
             "imageName": "sky-boots",
@@ -1047,7 +1047,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "スカイブーツ"
+            "name": "ニョッキブーツ"
         },
         {
             "imageName": "aqua-shoes",
@@ -1082,7 +1082,7 @@
             "def": 2,
             "price": 2,
             "giftRate": 10,
-            "name": "革の服"
+            "name": "にーらいの服"
         },
         {
             "imageName": "sparkle-glove",
@@ -1126,7 +1126,7 @@
             "def": 3,
             "price": 3,
             "giftRate": 8,
-            "name": "アイアンガントレット"
+            "name": "マエバガントレット"
         },
         {
             "imageName": "ogres-shoes",
@@ -1145,7 +1145,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "スカイガントレット"
+            "name": "ニョッキガントレット"
         },
         {
             "imageName": "flame-boots",
@@ -1189,7 +1189,7 @@
             "def": 4,
             "price": 4,
             "giftRate": 8,
-            "name": "アイアンシールド"
+            "name": "サインシールド"
         },
         {
             "imageName": "flame-helm",
@@ -1233,7 +1233,7 @@
             "def": 5,
             "price": 5,
             "giftRate": 8,
-            "name": "アイアンアーマー"
+            "name": "サインアーマー"
         },
         {
             "imageName": "ogres-gauntlet",
@@ -1252,7 +1252,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "スカイヘルム"
+            "name": "ニョッキヘルム"
         },
         {
             "imageName": "flame-shield",
@@ -1296,7 +1296,7 @@
             "def": 6,
             "price": 6,
             "giftRate": 6,
-            "name": "はがねの小手"
+            "name": "よりぴーの小手"
         },
         {
             "imageName": "spiritual-socks",
@@ -1358,7 +1358,7 @@
             "def": 7,
             "price": 7,
             "giftRate": 6,
-            "name": "はがねのかぶと"
+            "name": "よりぴーのかぶと"
         },
         {
             "imageName": "ogres-helm",
@@ -1377,7 +1377,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "スカイシールド"
+            "name": "ニョッキシールド"
         },
         {
             "imageName": "burning-shield",
@@ -1403,7 +1403,7 @@
             "def": 8,
             "price": 8,
             "giftRate": 6,
-            "name": "はがねの盾"
+            "name": "よりぴーの盾"
         },
         {
             "imageName": "beautiful-glasswork",
@@ -1464,7 +1464,7 @@
             "def": 9,
             "price": 9,
             "giftRate": 6,
-            "name": "はがねのよろい"
+            "name": "よりぴーのよろい"
         },
         {
             "imageName": "ogres-armor",
@@ -1492,7 +1492,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "スカイアーマー"
+            "name": "ニョッキアーマー"
         },
         {
             "imageName": "angel-gauntlet",
