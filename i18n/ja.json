@@ -2517,7 +2517,7 @@
             "ability": "removeAllCurses",
             "guardian": "neptune",
             "guardianAttackRate": 6,
-            "name": "さざ波の音"
+            "name": "東方！東方！"
         },
         {
             "imageName": "seafood-soup",
@@ -2526,7 +2526,7 @@
             "abilityValue": 5,
             "guardian": "neptune",
             "guardianAttackRate": 5,
-            "name": "潮汁"
+            "name": "プロジェクト！"
         },
         {
             "imageName": "beach-aroma",
@@ -2535,7 +2535,7 @@
             "abilityValue": 5,
             "guardian": "neptune",
             "guardianAttackRate": 4,
-            "name": "磯の香り"
+            "name": "世界のみんなー！"
         },
         {
             "imageName": "healthy-seafood-soup",
@@ -2544,7 +2544,7 @@
             "abilityValue": 10,
             "guardian": "neptune",
             "guardianAttackRate": 3,
-            "name": "あっさりした潮汁"
+            "name": "よろしくー！"
         },
         {
             "imageName": "fresh-beach-aroma",
@@ -2553,7 +2553,7 @@
             "abilityValue": 10,
             "guardian": "neptune",
             "guardianAttackRate": 2,
-            "name": "さわやかな磯の香り"
+            "name": "Help Me ERIIIIIIN!!"
         },
         {
             "imageName": "coin-scattering",
@@ -2715,7 +2715,7 @@
             "armor": "ノート",
             "sundries": "文房具",
             "miracles": "レポート",
-            "devils": "問題児の学習妨害",
+            "devils": "問題児",
             "guardians": "学年団",
             "phenomena": "ビッグバン",
             "elementsNote": "異なる教科の授業を一緒に使うと自習になる。",
