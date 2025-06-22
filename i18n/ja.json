@@ -1737,7 +1737,7 @@
             "abilityValue": 5,
             "price": 1,
             "giftRate": 12,
-            "name": "即時回復Ⅰ"
+            "name": "即時加点Ⅰ"
         },
         {
             "imageName": "heart-dew",
@@ -1746,7 +1746,7 @@
             "abilityValue": 10,
             "price": 3,
             "giftRate": 8,
-            "name": "即時回復Ⅱ"
+            "name": "即時加点Ⅱ"
         },
         {
             "imageName": "romance-water",
