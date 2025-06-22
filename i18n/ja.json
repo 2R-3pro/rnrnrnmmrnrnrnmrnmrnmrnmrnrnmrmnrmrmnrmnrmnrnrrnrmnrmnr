@@ -1501,7 +1501,7 @@
             "ability": "blockMiracle",
             "price": 15,
             "giftRate": 1,
-            "name": "エンゼルの小手"
+            "name": "ホシノの小手"
         },
         {
             "imageName": "energy-helm",
@@ -1555,7 +1555,7 @@
             "ability": "blockMiracle",
             "price": 15,
             "giftRate": 1,
-            "name": "エンゼルの帽子"
+            "name": "ホシノの帽子"
         },
         {
             "imageName": "core-barrier",
@@ -1607,7 +1607,7 @@
             "ability": "blockMiracle",
             "price": 15,
             "giftRate": 1,
-            "name": "エンゼルシールド"
+            "name": "ホシノシールド"
         },
         {
             "imageName": "dreaming-hat",
