@@ -1056,7 +1056,7 @@
             "def": 1,
             "price": 2,
             "giftRate": 1,
-            "name": "アクアシューズ"
+            "name": "ショケイシューズ"
         },
         {
             "imageName": "laurel-wreath",
@@ -2413,7 +2413,7 @@
             "ability": "categoryWeapons",
             "guardian": "saturn",
             "guardianAttackRate": 2,
-            "name": "ダイヤモンドアクス"
+            "name": "くれぐれもセコいことのないように"
         },
         {
             "imageName": "twinkle",
@@ -2442,7 +2442,7 @@
             "curse": "flash",
             "guardian": "uranus",
             "guardianAttackRate": 4,
-            "name": "後光"
+            "name": "twitter"
         },
         {
             "imageName": "blessing",
@@ -2472,7 +2472,7 @@
             "hitRate": 25,
             "guardian": "pluto",
             "guardianAttackRate": 6,
-            "name": "思考"
+            "name": "このクラスも色々なことがありました"
         },
         {
             "imageName": "wink",
@@ -2500,7 +2500,7 @@
             "atk": 4,
             "guardian": "pluto",
             "guardianAttackRate": 3,
-            "name": "せき払い"
+            "name": "人の肩にペンを刺したり"
         },
         {
             "imageName": "hand-raising",
@@ -2509,7 +2509,7 @@
             "atk": 8,
             "guardian": "pluto",
             "guardianAttackRate": 2,
-            "name": "スマホ発見"
+            "name": "スマホ発見(イエローカード)"
         },
         {
             "imageName": "sound-of-ripples",
