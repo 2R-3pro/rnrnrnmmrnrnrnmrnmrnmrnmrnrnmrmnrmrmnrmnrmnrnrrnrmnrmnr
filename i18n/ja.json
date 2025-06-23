@@ -1100,7 +1100,7 @@
             "def": 2,
             "price": 4,
             "giftRate": 1,
-            "name": "アクアグローブ"
+            "name": "ショケイグローブ"
         },
         {
             "imageName": "wood-shield",
@@ -1109,7 +1109,7 @@
             "def": 2,
             "price": 4,
             "giftRate": 1,
-            "name": "木の盾"
+            "name": "林の盾"
         },
         {
             "imageName": "bedrock",
@@ -1154,7 +1154,7 @@
             "def": 3,
             "price": 6,
             "giftRate": 1,
-            "name": "フレイムブーツ"
+            "name": "ホムラブーツ"
         },
         {
             "imageName": "ice-boots",
@@ -1163,7 +1163,7 @@
             "def": 3,
             "price": 6,
             "giftRate": 1,
-            "name": "アイスブーツ"
+            "name": "ショケイブーツ"
         },
         {
             "imageName": "sacred-tree-gauntlet",
@@ -1172,7 +1172,7 @@
             "def": 3,
             "price": 6,
             "giftRate": 1,
-            "name": "御神木の小手"
+            "name": "林の小手"
         },
         {
             "imageName": "crystal-board",
@@ -1198,7 +1198,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "フレイムヘルム"
+            "name": "ホムラヘルム"
         },
         {
             "imageName": "ice-helm",
@@ -1207,7 +1207,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "アイスヘルム"
+            "name": "ショケイヘルム"
         },
         {
             "imageName": "grove-shield",
@@ -1261,7 +1261,7 @@
             "def": 5,
             "price": 10,
             "giftRate": 1,
-            "name": "フレイムシールド"
+            "name": "ホムラシールド"
         },
         {
             "imageName": "ice-shield",
@@ -1270,7 +1270,7 @@
             "def": 5,
             "price": 10,
             "giftRate": 1,
-            "name": "アイスシールド"
+            "name": "ショケイシールド"
         },
         {
             "imageName": "resin-knit-robe",
@@ -1279,7 +1279,7 @@
             "def": 5,
             "price": 10,
             "giftRate": 1,
-            "name": "樹脂で編んだ法衣"
+            "name": "林警部補の法衣"
         },
         {
             "imageName": "terra-gauntlet",
@@ -1314,7 +1314,7 @@
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "フレイムアーマー"
+            "name": "ホムラアーマー"
         },
         {
             "imageName": "ice-armor",
@@ -1323,7 +1323,7 @@
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "アイスアーマー"
+            "name": "ショケイアーマー"
         },
         {
             "imageName": "forest-shield",
@@ -1332,7 +1332,7 @@
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "森の盾"
+            "name": "林の盾"
         },
         {
             "imageName": "terra-helm",
