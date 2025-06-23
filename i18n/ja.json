@@ -61,30 +61,30 @@
             "name": "金のシャーペン"
         },
         {
-            "imageName": "blowgun",
+            "imageName": "punch",
             "category": "weapons",
             "atk": 1,
             "isPlusAtk": true,
             "price": 1,
             "giftRate": 1,
-            "name": "吹き矢"
+            "name": "ムチ"
+        },
+        {
+            "imageName": "blowgun",
+            "category": "weapons",
+            "atk": 2,
+            "price": 1,
+            "giftRate": 4,
+            "name": "セイバーロッド"
         },
         {
             "imageName": "whip",
             "category": "weapons",
             "atk": 2,
-            "price": 1,
-            "giftRate": 4,
-            "name": "ムチ"
-        },
-        {
-            "imageName": "saver-rod",
-            "category": "weapons",
-            "atk": 2,
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "セイバーロッド"
+            "name": "パンチ"
         },
         {
             "imageName": "crossbow",
@@ -96,12 +96,12 @@
             "name": "クロちゃんボウ"
         },
         {
-            "imageName": "punch",
+            "imageName": "saver-rod",
             "category": "weapons",
             "atk": 3,
             "price": 1,
             "giftRate": 5,
-            "name": "パンチ"
+            "name": "吹き矢"
         },
         {
             "imageName": "saw-boom-boom",
@@ -122,47 +122,47 @@
             "name": "ブーメラン論破!!"
         },
         {
-            "imageName": "hatchet",
+            "imageName": "plate-of-strike",
             "category": "weapons",
             "atk": 4,
             "price": 2,
             "giftRate": 6,
-            "name": "ハチェット"
+            "name": "とげベルト"
         },
         {
-            "imageName": "spiked-belt",
+            "imageName": "hatchet",
             "category": "weapons",
             "atk": 4,
             "def": 2,
             "price": 3,
             "giftRate": 1,
-            "name": "とげベルト"
+            "name": "バトルドーム"
         },
         {
-            "imageName": "battle-ball",
+            "imageName": "spiked-belt",
             "category": "weapons",
             "atk": 4,
             "isPlusAtk": true,
             "price": 4,
             "giftRate": 1,
-            "name": "バトルドーム"
+            "name": "鎖ガマ"
+        },
+        {
+            "imageName": "battle-ball",
+            "category": "weapons",
+            "atk": 5,
+            "price": 2,
+            "giftRate": 7,
+            "name": "打撃の鉄板"
         },
         {
             "imageName": "chain-sickle",
             "category": "weapons",
             "atk": 5,
-            "price": 2,
-            "giftRate": 7,
-            "name": "鎖ガマ"
-        },
-        {
-            "imageName": "plate-of-strike",
-            "category": "weapons",
-            "atk": 5,
             "def": 7,
             "price": 3,
             "giftRate": 1,
-            "name": "打撃の鉄板"
+            "name": "ハチェット"
         },
         {
             "imageName": "bouncing-sword",
@@ -174,47 +174,47 @@
             "name": "運ゲー武剣"
         },
         {
-            "imageName": "warrior-s-bow",
+            "imageName": "glaive-classic",
             "category": "weapons",
             "atk": 5,
             "isPlusAtk": true,
             "price": 5,
             "giftRate": 1,
-            "name": "戦士の弓"
+            "name": "硬い土"
+        },
+        {
+            "imageName": "warrior-s-bow",
+            "category": "weapons",
+            "atk": 6,
+            "price": 2,
+            "giftRate": 8,
+            "name": "エルボーサック"
         },
         {
             "imageName": "hard-hammer",
             "category": "weapons",
             "atk": 6,
-            "price": 2,
-            "giftRate": 8,
-            "name": "硬い土"
+            "def": 3,
+            "price": 3,
+            "giftRate": 1,
+            "name": "ジェットヨーヨー"
         },
         {
             "imageName": "elbow-sack",
             "category": "weapons",
             "atk": 6,
-            "def": 3,
-            "price": 3,
+            "isPlusAtk": true,
+            "price": 6,
             "giftRate": 1,
-            "name": "エルボーサック"
+            "name": "なぎなたクラシック"
         },
         {
             "imageName": "jet-yo-yo",
             "category": "weapons",
-            "atk": 6,
-            "isPlusAtk": true,
-            "price": 6,
-            "giftRate": 1,
-            "name": "ジェットヨーヨー"
-        },
-        {
-            "imageName": "glaive-classic",
-            "category": "weapons",
             "atk": 7,
             "price": 3,
             "giftRate": 8,
-            "name": "なぎなたクラシック"
+            "name": "戦士の弓"
         },
         {
             "imageName": "ghost-sword",
@@ -2910,7 +2910,7 @@
         },
         "abilities": {
             "discard": "学習道具を一個売る",
-            "sacrifice": "両替する<br>（HP1=MP1=¥1）",
+            "sacrifice": "両替する<br>（評点1=🖊️1=¥1）",
             "exchange": "学習道具を一個買う",
             "sell": "学習道具をささげる<br>（新しい学習道具は授からない）",
             "buy": "学習道具を捨てる<br>(新しい学習道具を授かる)",
