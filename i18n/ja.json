@@ -4,13 +4,13 @@
             "imageName": "exchange",
             "category": "trade",
             "ability": "discard",
-            "name": "ささげる"
+            "name": "売る"
         },
         {
             "imageName": "buy",
             "category": "trade",
             "ability": "sacrifice",
-            "name": "捨てる"
+            "name": "ささげる"
         },
         {
             "imageName": "discard",
@@ -18,7 +18,7 @@
             "ability": "exchange",
             "price": 5,
             "giftRate": 20,
-            "name": "売る"
+            "name": "捨てる"
         },
         {
             "imageName": "sell",
@@ -2912,7 +2912,7 @@
             "discard": "学習道具を一個売る",
             "sacrifice": "両替する<br>（HP1=MP1=¥1）",
             "exchange": "学習道具を一個買う",
-            "sell": "学習道具をささげる＜br>（新しい学習道具は授からない）",
+            "sell": "学習道具をささげる<br>（新しい学習道具は授からない）",
             "buy": "学習道具を捨てる<br>(新しい学習道具を授かる)",
             "addItem": "学習道具を一個もらす",
             "setElement": "{{element}}に染める",
