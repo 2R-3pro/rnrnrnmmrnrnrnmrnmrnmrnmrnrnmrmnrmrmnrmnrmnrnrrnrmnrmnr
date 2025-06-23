@@ -2325,7 +2325,7 @@
             "atk": 1,
             "guardian": "jupiter",
             "guardianAttackRate": 6,
-            "name": "枝"
+            "name": "教室の使い方があまりにも酷い"
         },
         {
             "imageName": "root",
@@ -2345,7 +2345,7 @@
             "ability": "absorbHP",
             "guardian": "jupiter",
             "guardianAttackRate": 4,
-            "name": "触手"
+            "name": "人のスマホには絶対に触ってはいけません"
         },
         {
             "imageName": "colored-leaves",
@@ -2571,7 +2571,7 @@
             "abilityValue": 5,
             "guardian": "venus",
             "guardianAttackRate": 5,
-            "name": "わいろ"
+            "name": "つまらないものですがどうかお納めください"
         },
         {
             "imageName": "fine",
