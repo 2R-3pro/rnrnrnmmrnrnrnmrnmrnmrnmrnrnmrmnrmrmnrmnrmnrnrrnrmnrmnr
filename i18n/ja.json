@@ -585,7 +585,7 @@
             "atk": 2,
             "price": 2,
             "giftRate": 1,
-            "name": "いばらのムチ"
+            "name": "黒板を消さずに上から書く"
         },
         {
             "imageName": "leaf-shuriken",
@@ -2935,7 +2935,7 @@
             "boostHP": "{{hp}}点加点",
             "orDealDamage": "または {{damage}}点減点",
             "dealDamage": "{{damage}}点減点",
-            "revive": "評点0になると<br>+評点{{hp}}",
+            "revive": "評点0になると<br>留年を回避し{{hp}}点加点",
             "setHPOfEverybody": "みんなの評点が{{hp}}になる",
             "absorbHP": "評点を吸収する(カス)",
             "dealSameDamage": "使用者に同じ減点",
