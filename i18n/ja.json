@@ -145,7 +145,7 @@
             "isPlusAtk": true,
             "price": 4,
             "giftRate": 1,
-            "name": "バトルボール"
+            "name": "バトルドーム"
         },
         {
             "imageName": "chain-sickle",
@@ -188,7 +188,7 @@
             "atk": 6,
             "price": 2,
             "giftRate": 8,
-            "name": "硬いつち"
+            "name": "硬い土"
         },
         {
             "imageName": "elbow-sack",
@@ -2481,7 +2481,7 @@
             "atk": 2,
             "guardian": "pluto",
             "guardianAttackRate": 5,
-            "name": "まばたき"
+            "name": "目が合った"
         },
         {
             "imageName": "ominous-premonition",
