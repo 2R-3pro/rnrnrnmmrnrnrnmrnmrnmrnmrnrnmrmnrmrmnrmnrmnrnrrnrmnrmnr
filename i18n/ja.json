@@ -226,21 +226,21 @@
             "name": "ゴーストソード"
         },
         {
-            "imageName": "unknown-feather",
+            "imageName": "final-tusk",
             "category": "weapons",
             "atk": 7,
             "isPlusAtk": true,
             "price": 7,
             "giftRate": 1,
-            "name": "未知の羽根"
+            "name": "パワーハルベルト"
         },
         {
-            "imageName": "final-tusk",
+            "imageName": "psychic-card",
             "category": "weapons",
             "atk": 8,
             "price": 3,
             "giftRate": 8,
-            "name": "ファイナル牙"
+            "name": "未知の羽根"
         },
         {
             "imageName": "hell-scissors",
@@ -253,21 +253,21 @@
             "name": "いじめのハサミ"
         },
         {
-            "imageName": "psychic-card",
+            "imageName": "power-halberd",
             "category": "weapons",
             "atk": 8,
             "isPlusAtk": true,
             "price": 8,
             "giftRate": 1,
-            "name": "サイキックカード"
+            "name": "ファイナル牙"
         },
         {
-            "imageName": "power-halberd",
+            "imageName": "unknown-feather",
             "category": "weapons",
             "atk": 9,
             "price": 3,
             "giftRate": 7,
-            "name": "パワーハルベルト"
+            "name": "サイキックカード"
         },
         {
             "imageName": "gale-sword",
@@ -299,12 +299,12 @@
             "name": "ニョッキハープーン"
         },
         {
-            "imageName": "wonder-sword",
+            "imageName": "sword-shield",
             "category": "weapons",
             "atk": 10,
             "price": 4,
             "giftRate": 7,
-            "name": "ワンダーソード"
+            "name": "もろぶっこみアクス"
         },
         {
             "imageName": "bogus-spear",
@@ -317,13 +317,13 @@
             "name": "散らかりスピア"
         },
         {
-            "imageName": "sword-shield",
+            "imageName": "gravity-mace",
             "category": "weapons",
             "atk": 10,
             "def": 10,
             "price": 15,
             "giftRate": 1,
-            "name": "ソードシールド"
+            "name": "ワンダーソード"
         },
         {
             "imageName": "reflecting-sword",
@@ -344,12 +344,12 @@
             "name": "ブーメランのオノ"
         },
         {
-            "imageName": "gravity-mace",
+            "imageName": "horror-wheel",
             "category": "weapons",
             "atk": 11,
             "price": 4,
             "giftRate": 4,
-            "name": "グラビティメイス"
+            "name": "ソードシールド"
         },
         {
             "imageName": "hexagon-doom",
@@ -362,21 +362,21 @@
             "name": "六角席替え"
         },
         {
-            "imageName": "horror-wheel",
+            "imageName": "direct-smash-axe",
             "category": "weapons",
             "atk": 11,
             "isPlusAtk": true,
             "price": 10,
             "giftRate": 1,
-            "name": "恐怖の車輪"
+            "name": "グラビティメイス"
         },
         {
-            "imageName": "direct-smash-axe",
+            "imageName": "wonder-sword",
             "category": "weapons",
             "atk": 12,
             "price": 4,
             "giftRate": 4,
-            "name": "もろぶっこみアクス"
+            "name": "恐怖の車輪"
         },
         {
             "imageName": "real-ghost-sword",
