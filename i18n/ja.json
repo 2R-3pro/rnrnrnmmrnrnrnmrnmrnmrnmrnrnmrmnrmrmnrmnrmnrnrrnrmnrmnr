@@ -2636,7 +2636,7 @@
             "category": "phenomena",
             "guardian": "jupiter",
             "ability": "confuseEverybody",
-            "name": "大久保大発生"
+            "name": "梅本大発生"
         },
         {
             "imageName": "tornado",
@@ -2814,7 +2814,7 @@
             "art": "美術",
             "artCredit": "2R先生",
             "userName": "先生の名前",
-            "setUserName": "同好会員以外の使用は固く禁じます",
+            "setUserName": "評点低い→障害は成立するが逆は成り立たない",
             "userNameEmpty": "先生の名前を<br>入力してください",
             "underMaintenance": "サーバメンテナンス中です",
             "versionInvalid": "アプリの更新が<br>必要です",
