@@ -1270,7 +1270,7 @@
             "def": 5,
             "price": 10,
             "giftRate": 1,
-            "name": "ショケイシールド"
+            "name": "アクアシールド"
         },
         {
             "imageName": "resin-knit-robe",
@@ -1607,7 +1607,7 @@
             "ability": "blockMiracle",
             "price": 15,
             "giftRate": 1,
-            "name": "ホシノシールド"
+            "name": "IRON HORUS"
         },
         {
             "imageName": "dreaming-hat",
