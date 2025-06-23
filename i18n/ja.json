@@ -1,19 +1,19 @@
     {
     "items": [
         {
-            "imageName": "discard",
+            "imageName": "exchange",
             "category": "trade",
             "ability": "discard",
             "name": "ささげる"
         },
         {
-            "imageName": "sacrifice",
+            "imageName": "buy",
             "category": "trade",
             "ability": "sacrifice",
             "name": "捨てる"
         },
         {
-            "imageName": "exchange",
+            "imageName": "discard",
             "category": "trade",
             "ability": "exchange",
             "price": 5,
@@ -29,7 +29,7 @@
             "name": "買う"
         },
         {
-            "imageName": "buy",
+            "imageName": "sacrifice",
             "category": "trade",
             "ability": "buy",
             "price": 5,
@@ -2909,11 +2909,11 @@
             "removeGame": "授業を終わる"
         },
         "abilities": {
-            "discard": "学習道具をささげる<br>(新しい学習道具は授かる)",
-            "sacrifice": "学習道具を捨てる<br>(新しい学習道具を授からない)",
+            "discard": "学習道具を一個売る",
+            "sacrifice": "両替する<br>（HP1=MP1=¥1）",
             "exchange": "学習道具を一個買う",
-            "sell": "両替する<br>(HP1=MP1=¥1)",
-            "buy": "学習道具を一個売る",
+            "sell": "学習道具をささげる＜br>（新しい学習道具は授からない）",
+            "buy": "学習道具を捨てる<br>(新しい学習道具を授かる)",
             "addItem": "学習道具を一個もらす",
             "setElement": "{{element}}に染める",
             "doubleAtk": "授業を倍にする",
