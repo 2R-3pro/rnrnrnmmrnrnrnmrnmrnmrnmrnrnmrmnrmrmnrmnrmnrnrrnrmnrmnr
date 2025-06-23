@@ -10,7 +10,7 @@
             "imageName": "buy",
             "category": "trade",
             "ability": "sacrifice",
-            "name": "ささげる"
+            "name": "両替"
         },
         {
             "imageName": "discard",
@@ -34,7 +34,7 @@
             "ability": "buy",
             "price": 5,
             "giftRate": 20,
-            "name": "両替"
+            "name": "ささげる"
         },
         {
             "imageName": "bronze-club",
