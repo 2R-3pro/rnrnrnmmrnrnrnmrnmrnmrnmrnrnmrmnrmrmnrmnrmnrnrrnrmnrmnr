@@ -2959,10 +2959,10 @@
             "setGuardian": "学年団が宿る",
             "setGuardianOfEverybody": "みんなに学年団が宿る",
             "confuseEverybody": "みんなが三回ずつ<br>発作を起こす",
-            "removeItems": "学習道具を<br>三個掃き飛ばす",
+            "removeItems": "学習道具を<br>三個破壊",
             "removeUsedMiracles": "書いたレポートを<br>二本査読し失格にする",
-            "removeSomething": "学習道具か書いたレポートを<br>二本盗む",
-            "shuffleItemsOfEverybody": "みんなの学習道具が<br>無作為に入れ替わる",
+            "removeSomething": "学習道具か書いたレポートを<br>二個破壊",
+            "shuffleItemsOfEverybody": "みんなの学習道具が<br>日頃の行いをもとに入れ替わる",
             "callPhenomenon": "ビッグバンが起こる"
         },
         "alerts": {
