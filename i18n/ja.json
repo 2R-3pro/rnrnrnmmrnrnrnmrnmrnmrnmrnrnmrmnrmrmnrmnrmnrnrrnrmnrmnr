@@ -2909,11 +2909,11 @@
             "removeGame": "授業を終わる"
         },
         "abilities": {
-            "discard": "学習道具を一個売る",
-            "sacrifice": "学習道具を一個売る",
-            "exchange": "学習道具を一個売る",
-            "sell": "学習道具を一個売る",
-            "buy": "学習道具を一個売る",
+            "discard": "両替する<br>(評点1=🖊️1=¥1)",
+            "sacrifice": "両替する<br>(評点1=🖊️1=¥1)",
+            "exchange": "両替する<br>(評点1=🖊️1=¥1)",
+            "sell": "両替する<br>(評点1=🖊️1=¥1)",
+            "buy": "両替する<br>(評点1=🖊️1=¥1)",
             "addItem": "学習道具を一個もらす",
             "setElement": "{{element}}に染める",
             "doubleAtk": "授業を倍にする",
