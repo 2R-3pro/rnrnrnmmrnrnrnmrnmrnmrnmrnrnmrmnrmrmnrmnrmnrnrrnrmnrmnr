@@ -2517,7 +2517,7 @@
             "ability": "removeAllCurses",
             "guardian": "neptune",
             "guardianAttackRate": 6,
-            "name": "東方！東方！"
+            "name": "Help Me ERIIIIN!!"
         },
         {
             "imageName": "seafood-soup",
@@ -2526,7 +2526,7 @@
             "abilityValue": 5,
             "guardian": "neptune",
             "guardianAttackRate": 5,
-            "name": "プロジェクト！"
+            "name": "東方！東方！"
         },
         {
             "imageName": "beach-aroma",
@@ -2535,7 +2535,7 @@
             "abilityValue": 5,
             "guardian": "neptune",
             "guardianAttackRate": 4,
-            "name": "世界のみんなー！"
+            "name": "プロジェクト！"
         },
         {
             "imageName": "healthy-seafood-soup",
@@ -2544,7 +2544,7 @@
             "abilityValue": 10,
             "guardian": "neptune",
             "guardianAttackRate": 3,
-            "name": "よろしくー！"
+            "name": "世界のみんなー！"
         },
         {
             "imageName": "fresh-beach-aroma",
@@ -2553,7 +2553,7 @@
             "abilityValue": 10,
             "guardian": "neptune",
             "guardianAttackRate": 2,
-            "name": "Help Me ERIIIIIIN!!"
+            "name": "よろしくー！"
         },
         {
             "imageName": "coin-scattering",
@@ -2571,7 +2571,7 @@
             "abilityValue": 5,
             "guardian": "venus",
             "guardianAttackRate": 5,
-            "name": "つまらないものですがどうかお納めください"
+            "name": "つまらないものですが受け取ってください"
         },
         {
             "imageName": "fine",
