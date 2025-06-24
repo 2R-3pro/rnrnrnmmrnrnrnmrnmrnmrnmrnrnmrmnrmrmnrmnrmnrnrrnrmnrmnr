@@ -1,19 +1,19 @@
     {
     "items": [
         {
-            "imageName": "sell",
+            "imageName": "discard",
             "category": "trade",
             "ability": "discard",
             "name": "売る"
         },
         {
-            "imageName": "sell",
+            "imageName": "discard",
             "category": "trade",
             "ability": "sacrifice",
             "name": "売る"
         },
         {
-            "imageName": "sell",
+            "imageName": "discard",
             "category": "trade",
             "ability": "exchange",
             "price": 5,
@@ -21,7 +21,7 @@
             "name": "売る"
         },
         {
-            "imageName": "sell",
+            "imageName": "discard",
             "category": "trade",
             "ability": "sell",
             "price": 5,
@@ -29,7 +29,7 @@
             "name": "売る"
         },
         {
-            "imageName": "sell",
+            "imageName": "discard",
             "category": "trade",
             "ability": "buy",
             "price": 5,
