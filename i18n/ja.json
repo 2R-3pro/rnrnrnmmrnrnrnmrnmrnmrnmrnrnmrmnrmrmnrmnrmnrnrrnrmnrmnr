@@ -4,13 +4,13 @@
             "imageName": "discard",
             "category": "trade",
             "ability": "discard",
-            "name": "売る"
+            "name": "???"
         },
         {
             "imageName": "discard",
             "category": "trade",
             "ability": "sacrifice",
-            "name": "売る"
+            "name": "???"
         },
         {
             "imageName": "discard",
@@ -18,7 +18,7 @@
             "ability": "exchange",
             "price": 5,
             "giftRate": 20,
-            "name": "売る"
+            "name": "???"
         },
         {
             "imageName": "discard",
@@ -26,7 +26,7 @@
             "ability": "sell",
             "price": 5,
             "giftRate": 20,
-            "name": "売る"
+            "name": "???"
         },
         {
             "imageName": "discard",
@@ -34,7 +34,7 @@
             "ability": "buy",
             "price": 5,
             "giftRate": 20,
-            "name": "売る"
+            "name": "???"
         },
         {
             "imageName": "bronze-club",
@@ -2909,11 +2909,11 @@
             "removeGame": "授業を終わる"
         },
         "abilities": {
-            "discard": "両替する<br>(評点1=🖊️1=¥1)",
-            "sacrifice": "両替する<br>(評点1=🖊️1=¥1)",
-            "exchange": "両替する<br>(評点1=🖊️1=¥1)",
-            "sell": "両替する<br>(評点1=🖊️1=¥1)",
-            "buy": "両替する<br>(評点1=🖊️1=¥1)",
+            "discard": "??????????",
+            "sacrifice": "??????????",
+            "exchange": "??????????",
+            "sell": "??????????",
+            "buy": "??????????",
             "addItem": "学習道具を一個もらす",
             "setElement": "{{element}}に染める",
             "doubleAtk": "授業を倍にする",
