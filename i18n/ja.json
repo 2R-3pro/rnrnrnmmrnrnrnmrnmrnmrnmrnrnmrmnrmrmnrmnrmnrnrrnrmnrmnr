@@ -152,7 +152,7 @@
             "category": "weapons",
             "atk": 5,
             "price": 2,
-            "giftRate": 1,
+            "giftRate": 7,
             "name": "鎖鎌"
         },
         {
@@ -231,7 +231,7 @@
             "atk": 7,
             "isPlusAtk": true,
             "price": 7,
-            "giftRate": 7,
+            "giftRate": 1,
             "name": "未知のシャーペン"
         },
         {
