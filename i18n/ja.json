@@ -61,30 +61,30 @@
             "name": "金のシャーペン"
         },
         {
-            "imageName": "punch",
+            "imageName": "blowgun",
             "category": "weapons",
             "atk": 1,
             "isPlusAtk": true,
             "price": 1,
             "giftRate": 1,
-            "name": "ムチ"
-        },
-        {
-            "imageName": "blowgun",
-            "category": "weapons",
-            "atk": 2,
-            "price": 1,
-            "giftRate": 4,
-            "name": "セイバーロッド"
+            "name": "紙のシャーペン"
         },
         {
             "imageName": "whip",
             "category": "weapons",
             "atk": 2,
+            "price": 1,
+            "giftRate": 4,
+            "name": "ムチ"
+        },
+        {
+            "imageName": "saver-rod",
+            "category": "weapons",
+            "atk": 2,
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "パンチ"
+            "name": "セイバーロッド"
         },
         {
             "imageName": "crossbow",
@@ -96,12 +96,12 @@
             "name": "クロちゃんボウ"
         },
         {
-            "imageName": "saver-rod",
+            "imageName": "punch",
             "category": "weapons",
             "atk": 3,
             "price": 1,
             "giftRate": 5,
-            "name": "吹き矢"
+            "name": "殴る"
         },
         {
             "imageName": "saw-boom-boom",
@@ -122,47 +122,47 @@
             "name": "ブーメラン論破!!"
         },
         {
-            "imageName": "plate-of-strike",
+            "imageName": "hatchet",
             "category": "weapons",
             "atk": 4,
             "price": 2,
             "giftRate": 6,
-            "name": "とげベルト"
-        },
-        {
-            "imageName": "hatchet",
-            "category": "weapons",
-            "atk": 4,
-            "def": 2,
-            "price": 3,
-            "giftRate": 1,
-            "name": "バトルドーム"
+            "name": "オノ"
         },
         {
             "imageName": "spiked-belt",
             "category": "weapons",
             "atk": 4,
-            "isPlusAtk": true,
-            "price": 4,
+            "def": 2,
+            "price": 3,
             "giftRate": 1,
-            "name": "鎖ガマ"
+            "name": "トゲベルト"
         },
         {
             "imageName": "battle-ball",
             "category": "weapons",
-            "atk": 5,
-            "price": 2,
-            "giftRate": 7,
-            "name": "打撃の鉄板"
+            "atk": 4,
+            "isPlusAtk": true,
+            "price": 4,
+            "giftRate": 1,
+            "name": "バトルドーム！！"
         },
         {
             "imageName": "chain-sickle",
             "category": "weapons",
             "atk": 5,
+            "price": 2,
+            "giftRate": 7,
+            "name": "鎖鎌"
+        },
+        {
+            "imageName": "plate-of-strike",
+            "category": "weapons",
+            "atk": 5,
             "def": 7,
             "price": 3,
             "giftRate": 1,
-            "name": "ハチェット"
+            "name": "打撃の鉄板"
         },
         {
             "imageName": "bouncing-sword",
@@ -174,47 +174,47 @@
             "name": "運ゲー武剣"
         },
         {
-            "imageName": "glaive-classic",
+            "imageName": "warrior-s-bow",
             "category": "weapons",
             "atk": 5,
             "isPlusAtk": true,
             "price": 5,
             "giftRate": 1,
-            "name": "硬い土"
-        },
-        {
-            "imageName": "warrior-s-bow",
-            "category": "weapons",
-            "atk": 6,
-            "price": 2,
-            "giftRate": 8,
-            "name": "エルボーサック"
+            "name": "戦士の弓"
         },
         {
             "imageName": "hard-hammer",
             "category": "weapons",
             "atk": 6,
-            "def": 3,
-            "price": 3,
-            "giftRate": 1,
-            "name": "ジェットヨーヨー"
+            "price": 2,
+            "giftRate": 8,
+            "name": "肩い土"
         },
         {
             "imageName": "elbow-sack",
             "category": "weapons",
             "atk": 6,
-            "isPlusAtk": true,
-            "price": 6,
+            "def": 3,
+            "price": 3,
             "giftRate": 1,
-            "name": "なぎなたクラシック"
+            "name": "エルボーサック"
         },
         {
             "imageName": "jet-yo-yo",
             "category": "weapons",
+            "atk": 6,
+            "isPlusAtk": true,
+            "price": 6,
+            "giftRate": 1,
+            "name": "ジェットヨーヨー"
+        },
+        {
+            "imageName": "glaive-classic",
+            "category": "weapons",
             "atk": 7,
             "price": 3,
             "giftRate": 8,
-            "name": "戦士の弓"
+            "name": "なぎなたクラシック"
         },
         {
             "imageName": "ghost-sword",
@@ -226,21 +226,21 @@
             "name": "ゴーストソード"
         },
         {
-            "imageName": "final-tusk",
+            "imageName": "unknown-feather",
             "category": "weapons",
             "atk": 7,
             "isPlusAtk": true,
             "price": 7,
             "giftRate": 1,
-            "name": "パワーハルベルト"
+            "name": "未知のシャーペン"
         },
         {
-            "imageName": "psychic-card",
+            "imageName": "final-tusk",
             "category": "weapons",
             "atk": 8,
             "price": 3,
             "giftRate": 8,
-            "name": "未知の羽根"
+            "name": "ファイナル鉛筆"
         },
         {
             "imageName": "hell-scissors",
@@ -253,21 +253,21 @@
             "name": "いじめのハサミ"
         },
         {
-            "imageName": "power-halberd",
+            "imageName": "psychic-card",
             "category": "weapons",
             "atk": 8,
             "isPlusAtk": true,
             "price": 8,
             "giftRate": 1,
-            "name": "ファイナル牙"
+            "name": "論破の札"
         },
         {
-            "imageName": "unknown-feather",
+            "imageName": "power-halberd",
             "category": "weapons",
             "atk": 9,
             "price": 3,
             "giftRate": 7,
-            "name": "サイキックカード"
+            "name": "パワフルシャーペン"
         },
         {
             "imageName": "gale-sword",
@@ -299,12 +299,12 @@
             "name": "ニョッキハープーン"
         },
         {
-            "imageName": "sword-shield",
+            "imageName": "wonder-sword",
             "category": "weapons",
             "atk": 10,
             "price": 4,
             "giftRate": 7,
-            "name": "もろぶっこみアクス"
+            "name": "ワンダーソード"
         },
         {
             "imageName": "bogus-spear",
@@ -317,13 +317,13 @@
             "name": "散らかりスピア"
         },
         {
-            "imageName": "gravity-mace",
+            "imageName": "sword-shield",
             "category": "weapons",
             "atk": 10,
             "def": 10,
             "price": 15,
             "giftRate": 1,
-            "name": "ワンダーソード"
+            "name": "教科書"
         },
         {
             "imageName": "reflecting-sword",
@@ -344,12 +344,12 @@
             "name": "ブーメランのオノ"
         },
         {
-            "imageName": "horror-wheel",
+            "imageName": "gravity-mace",
             "category": "weapons",
             "atk": 11,
             "price": 4,
             "giftRate": 4,
-            "name": "ソードシールド"
+            "name": "メイス"
         },
         {
             "imageName": "hexagon-doom",
@@ -362,21 +362,21 @@
             "name": "六角席替え"
         },
         {
-            "imageName": "direct-smash-axe",
+            "imageName": "horror-wheel",
             "category": "weapons",
             "atk": 11,
             "isPlusAtk": true,
             "price": 10,
             "giftRate": 1,
-            "name": "グラビティメイス"
+            "name": "恐怖のよりぴー"
         },
         {
-            "imageName": "wonder-sword",
+            "imageName": "direct-smash-axe",
             "category": "weapons",
             "atk": 12,
             "price": 4,
             "giftRate": 4,
-            "name": "恐怖の車輪"
+            "name": "シャーペン・ダイレクト打撃"
         },
         {
             "imageName": "real-ghost-sword",
