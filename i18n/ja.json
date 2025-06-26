@@ -1867,7 +1867,7 @@
             "ability": "removeUsedMiracles",
             "price": 10,
             "giftRate": 1,
-            "name": "女神の消しゴム"
+            "name": "内職の産物"
         },
         {
             "imageName": "string-of-fate",
@@ -2206,7 +2206,7 @@
             "category": "devils",
             "ability": "removeSomething",
             "appearanceRate": 5,
-            "name": "小鳥遊ホシノ(偽物)"
+            "name": "プリント消失"
         },
         {
             "imageName": "charity-fairy",
@@ -2961,7 +2961,7 @@
             "confuseEverybody": "みんなが三回ずつ<br>発作を起こす",
             "removeItems": "学習道具を<br>三個破壊",
             "removeUsedMiracles": "書いたレポートを<br>二本査読し失格にする",
-            "removeSomething": "学習道具か書いたレポートを<br>二個破壊",
+            "removeSomething": "学習道具か書いたレポートが<br>二個消える",
             "shuffleItemsOfEverybody": "みんなの学習道具が<br>日頃の行いをもとに入れ替わる",
             "callPhenomenon": "ビッグバンが起こる"
         },
