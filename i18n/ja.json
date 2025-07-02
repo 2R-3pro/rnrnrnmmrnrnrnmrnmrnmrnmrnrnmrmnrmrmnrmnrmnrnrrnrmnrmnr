@@ -2224,7 +2224,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 6,
-            "name": "ymkwのささやき"
+            "name": "プリントを出し渋っている"
         },
         {
             "imageName": "fire-tweet",
@@ -2254,7 +2254,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 3,
-            "name": "ymkwのうなり"
+            "name": "ymkwの真理"
         },
         {
             "imageName": "fire-shout",
@@ -2264,7 +2264,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 2,
-            "name": "ymkwの真理"
+            "name": "止め！！！"
         },
         {
             "imageName": "drizzle",
@@ -2316,7 +2316,7 @@
             "hitRate": 50,
             "guardian": "mercury",
             "guardianAttackRate": 2,
-            "name": "あられ"
+            "name": "数学やるよ〜"
         },
         {
             "imageName": "branch",
