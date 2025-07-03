@@ -75,7 +75,7 @@
             "atk": 2,
             "price": 1,
             "giftRate": 4,
-            "name": "ムチ"
+            "name": "無知"
         },
         {
             "imageName": "saver-rod",
@@ -84,7 +84,7 @@
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "セイバーロッド"
+            "name": "スタディロッド"
         },
         {
             "imageName": "crossbow",
@@ -127,7 +127,7 @@
             "atk": 4,
             "price": 2,
             "giftRate": 6,
-            "name": "オノ"
+            "name": "鈍器"
         },
         {
             "imageName": "spiked-belt",
@@ -136,7 +136,7 @@
             "def": 2,
             "price": 3,
             "giftRate": 1,
-            "name": "トゲベルト"
+            "name": "痛いベルト"
         },
         {
             "imageName": "battle-ball",
@@ -162,7 +162,7 @@
             "def": 7,
             "price": 3,
             "giftRate": 1,
-            "name": "打撃の鉄板"
+            "name": "刺突の鉄板"
         },
         {
             "imageName": "bouncing-sword",
@@ -180,7 +180,7 @@
             "isPlusAtk": true,
             "price": 5,
             "giftRate": 1,
-            "name": "戦士の弓"
+            "name": "前歯の弓"
         },
         {
             "imageName": "hard-hammer",
@@ -197,7 +197,7 @@
             "def": 3,
             "price": 3,
             "giftRate": 1,
-            "name": "エルボーサック"
+            "name": "エルボーペンシル"
         },
         {
             "imageName": "jet-yo-yo",
@@ -206,7 +206,7 @@
             "isPlusAtk": true,
             "price": 6,
             "giftRate": 1,
-            "name": "ジェットヨーヨー"
+            "name": "糸付きブーメラン"
         },
         {
             "imageName": "glaive-classic",
@@ -214,7 +214,7 @@
             "atk": 7,
             "price": 3,
             "giftRate": 8,
-            "name": "なぎなたクラシック"
+            "name": "細いシャーペン"
         },
         {
             "imageName": "ghost-sword",
@@ -223,7 +223,7 @@
             "ability": "absorbHP",
             "price": 10,
             "giftRate": 1,
-            "name": "ゴーストソード"
+            "name": "評点没収ソード"
         },
         {
             "imageName": "unknown-feather",
@@ -304,7 +304,7 @@
             "atk": 10,
             "price": 4,
             "giftRate": 7,
-            "name": "ワンダーソード"
+            "name": "wonderソード"
         },
         {
             "imageName": "bogus-spear",
@@ -385,7 +385,7 @@
             "ability": "absorbHP",
             "price": 15,
             "giftRate": 1,
-            "name": "リアルゴーストソード"
+            "name": "理不尽評点没収ソード"
         },
         {
             "imageName": "spiritual-staff",
@@ -402,7 +402,7 @@
             "atk": 13,
             "price": 5,
             "giftRate": 4,
-            "name": "絶景のヤリ"
+            "name": "絶景のツリ"
         },
         {
             "imageName": "severe-gale-sword",
@@ -887,7 +887,7 @@
             "ability": "absorbHP",
             "price": 10,
             "giftRate": 1,
-            "name": "つるシュート"
+            "name": "gormany"
         },
         {
             "imageName": "lightning-kids",
@@ -897,7 +897,7 @@
             "hitRate": 25,
             "price": 2,
             "giftRate": 1,
-            "name": "イナヅマキッズ"
+            "name": "まだまだキッズ"
         },
         {
             "imageName": "flame-cup",
@@ -957,7 +957,7 @@
             "hitRate": 25,
             "price": 4,
             "giftRate": 1,
-            "name": "ガケッツチ"
+            "name": "気象予報リスニング"
         },
         {
             "imageName": "light-orb",
@@ -977,7 +977,7 @@
             "hitRate": 75,
             "price": 10,
             "giftRate": 1,
-            "name": "烈火シャワー"
+            "name": "漢文"
         },
         {
             "imageName": "jinn-s-rocking-horse",
@@ -1008,7 +1008,7 @@
             "hitRate": 50,
             "price": 10,
             "giftRate": 1,
-            "name": "フレアアクス"
+            "name": "iPadロック"
         },
         {
             "imageName": "petit-saturn",
@@ -1332,7 +1332,7 @@
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "林の盾"
+            "name": "林警部補の盾"
         },
         {
             "imageName": "terra-helm",
@@ -1834,7 +1834,7 @@
             "abilityValue": 10,
             "price": 1,
             "giftRate": 2,
-            "name": "ドキドキ涙"
+            "name": "運ゲー涙"
         },
         {
             "imageName": "strength-powder",
@@ -2087,7 +2087,7 @@
             "hitRate": 75,
             "cost": 10,
             "giftRate": 1,
-            "name": "＜iPadロック＞"
+            "name": "＜完答15点＞"
         },
         {
             "imageName": "ice-age",
@@ -2115,7 +2115,7 @@
             "ability": "attackEveryEnemy",
             "cost": 5,
             "giftRate": 1,
-            "name": "＜蜃気楼＞"
+            "name": "＜全員を疑わないといけなくなる＞"
         },
         {
             "imageName": "wall",
@@ -2376,7 +2376,7 @@
             "atk": 2,
             "guardian": "saturn",
             "guardianAttackRate": 6,
-            "name": "小石"
+            "name": "礫"
         },
         {
             "imageName": "stone",
@@ -2394,7 +2394,7 @@
             "atk": 6,
             "guardian": "saturn",
             "guardianAttackRate": 4,
-            "name": "大きな石"
+            "name": "岩石"
         },
         {
             "imageName": "body-press",
@@ -2403,7 +2403,7 @@
             "atk": 9,
             "guardian": "saturn",
             "guardianAttackRate": 3,
-            "name": "体当たり"
+            "name": "地震"
         },
         {
             "imageName": "diamond-axe",
@@ -2571,7 +2571,7 @@
             "abilityValue": 5,
             "guardian": "venus",
             "guardianAttackRate": 5,
-            "name": "つまらないものですが受け取ってください"
+            "name": "利敵"
         },
         {
             "imageName": "fine",
