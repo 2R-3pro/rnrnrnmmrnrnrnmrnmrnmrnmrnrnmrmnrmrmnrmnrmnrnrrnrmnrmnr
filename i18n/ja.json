@@ -977,7 +977,7 @@
             "hitRate": 75,
             "price": 10,
             "giftRate": 1,
-            "name": "漢文"
+            "name": "悪書"
         },
         {
             "imageName": "jinn-s-rocking-horse",
@@ -1109,7 +1109,7 @@
             "def": 2,
             "price": 4,
             "giftRate": 1,
-            "name": "林の盾"
+            "name": "林警部補の盾"
         },
         {
             "imageName": "bedrock",
@@ -1172,7 +1172,7 @@
             "def": 3,
             "price": 6,
             "giftRate": 1,
-            "name": "林の小手"
+            "name": "林警部補の小手"
         },
         {
             "imageName": "crystal-board",
@@ -1216,7 +1216,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "林の盾"
+            "name": "林警部補の盾"
         },
         {
             "imageName": "terra-shoes",
@@ -1977,7 +1977,7 @@
             "atk": 25,
             "cost": 12,
             "giftRate": 1,
-            "name": "＜万民のカルナバル＞"
+            "name": "＜数学B課題＞"
         },
         {
             "imageName": "wind",
@@ -2097,7 +2097,7 @@
             "hitRate": 75,
             "cost": 30,
             "giftRate": 1,
-            "name": "＜数学B課題＞"
+            "name": "＜課題点なし＞"
         },
         {
             "imageName": "aura",
