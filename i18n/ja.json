@@ -2660,6 +2660,7 @@
             "element": "darkness",
             "atk": 30,
             "hitRate": 75,
+            "ability": "kusogame"
             "name": "ブラックシャーペン"
         },
         {
@@ -2964,6 +2965,7 @@
             "removeSomething": "学習道具か書いたレポートが<br>二個消える",
             "shuffleItemsOfEverybody": "みんなの学習道具が<br>日頃の行いをもとに入れ替わる",
             "callPhenomenon": "ビッグバンが起こる"
+            "kusogame": "クソゲー乙！！！"
         },
         "alerts": {
             "pray": "授業を所持しているとサボれない",
