@@ -473,7 +473,7 @@
             "ability": "blockMiracle",
             "price": 15,
             "giftRate": 1,
-            "name": "ホシノアクス"
+            "name": "保健体育"
         },
         {
             "imageName": "angel-bow",
@@ -1627,7 +1627,7 @@
             "ability": "blockMiracle",
             "price": 15,
             "giftRate": 1,
-            "name": "ホシノアーマー"
+            "name": "有害なゲーム"
         },
         {
             "imageName": "god-shield",
