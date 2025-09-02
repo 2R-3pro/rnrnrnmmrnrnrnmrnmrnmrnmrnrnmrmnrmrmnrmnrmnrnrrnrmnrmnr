@@ -1056,7 +1056,7 @@
             "def": 1,
             "price": 2,
             "giftRate": 1,
-            "name": "アクアシューズ"
+            "name": "クロチャンシューズ"
         },
         {
             "imageName": "laurel-wreath",
@@ -1100,7 +1100,7 @@
             "def": 2,
             "price": 4,
             "giftRate": 1,
-            "name": "アクアグローブ"
+            "name": "クロチャングローブ"
         },
         {
             "imageName": "wood-shield",
@@ -1163,7 +1163,7 @@
             "def": 3,
             "price": 6,
             "giftRate": 1,
-            "name": "アクアブーツ"
+            "name": "クロチャンブーツ"
         },
         {
             "imageName": "sacred-tree-gauntlet",
@@ -1207,7 +1207,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "アクアヘルム"
+            "name": "クロチャンヘルム"
         },
         {
             "imageName": "grove-shield",
@@ -1270,7 +1270,7 @@
             "def": 5,
             "price": 10,
             "giftRate": 1,
-            "name": "アクアシールド"
+            "name": "クロチャンシールド"
         },
         {
             "imageName": "resin-knit-robe",
@@ -1323,7 +1323,7 @@
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "アクアアーマー"
+            "name": "クロチャンアーマー"
         },
         {
             "imageName": "forest-shield",
