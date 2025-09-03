@@ -1809,7 +1809,7 @@
             "ability": "removeMildCurses",
             "price": 5,
             "giftRate": 12,
-            "name": "ハッピーセット"
+            "name": "真の本物"
         },
         {
             "imageName": "heart-shell",
@@ -1817,7 +1817,7 @@
             "ability": "removeAllCurses",
             "price": 15,
             "giftRate": 6,
-            "name": "牛乳"
+            "name": "クロちゃんもびっくり"
         },
         {
             "imageName": "guardian-sealed-jar",
