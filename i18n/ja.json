@@ -1958,7 +1958,7 @@
             "ability": "absorbHP",
             "cost": 10,
             "giftRate": 1,
-            "name": "＜スマホ没収＞"
+            "name": "＜没収＞"
         },
         {
             "imageName": "meteor",
@@ -2452,7 +2452,7 @@
             "ability": "absorbHP",
             "guardian": "uranus",
             "guardianAttackRate": 3,
-            "name": "平常点減点"
+            "name": "スマホ没収(キル)"
         },
         {
             "imageName": "laser-beam",
