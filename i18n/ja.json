@@ -1875,7 +1875,7 @@
             "ability": "callPhenomenon",
             "price": 3,
             "giftRate": 1,
-            "name": "シャーペン事変"
+            "name": "シャーペンが動く"
         },
         {
             "imageName": "sun-amulet",
@@ -2717,7 +2717,7 @@
             "miracles": "レポート",
             "devils": "問題児",
             "guardians": "学年団",
-            "phenomena": "ビッグバン",
+            "phenomena": "事件",
             "elementsNote": "異なる教科の授業を一緒に使うと自習になる。",
             "lightNote": "{{light}}は、{{fire}}、{{water}}、{{wood}}、{{stone}}の代わりになれる。",
             "diseasesNote": "トラブルは日頃の行いが悪いと悪化する。",
@@ -2963,7 +2963,7 @@
             "removeUsedMiracles": "書いたレポートを<br>二本査読し失格にする",
             "removeSomething": "学習道具か書いたレポートが<br>二個消える",
             "shuffleItemsOfEverybody": "みんなの学習道具が<br>日頃の行いをもとに入れ替わる",
-            "callPhenomenon": "ビッグバンが起こる"
+            "callPhenomenon": "事件が起こる"
         },
         "alerts": {
             "pray": "授業を所持しているとサボれない",
