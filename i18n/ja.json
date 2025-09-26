@@ -1154,7 +1154,7 @@
             "def": 3,
             "price": 6,
             "giftRate": 1,
-            "name": "ホムラブーツ"
+            "name": "コクゴブーツ"
         },
         {
             "imageName": "ice-boots",
@@ -1198,7 +1198,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "ホムラヘルム"
+            "name": "コクゴヘルム"
         },
         {
             "imageName": "ice-helm",
@@ -1261,7 +1261,7 @@
             "def": 5,
             "price": 10,
             "giftRate": 1,
-            "name": "ホムラシールド"
+            "name": "コクゴシールド"
         },
         {
             "imageName": "ice-shield",
@@ -1314,7 +1314,7 @@
             "def": 6,
             "price": 10,
             "giftRate": 1,
-            "name": "ホムラアーマー"
+            "name": "コクゴアーマー"
         },
         {
             "imageName": "ice-armor",
@@ -1429,7 +1429,7 @@
             "def": 8,
             "price": 10,
             "giftRate": 1,
-            "name": "バーニングジャケット"
+            "name": "コクゴジャケット"
         },
         {
             "imageName": "snow-mask",
