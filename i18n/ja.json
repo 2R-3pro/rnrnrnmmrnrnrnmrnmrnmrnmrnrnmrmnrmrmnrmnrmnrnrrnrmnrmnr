@@ -2949,7 +2949,7 @@
             "collectCPOfEverybody": "みんなの金が<br>日頃の行いがいい人に集まる",
             "takeCP": "¥{{cp}} 没収",
             "counterTakeCP": "¥{減点} 没収",
-            "boostSomething": "ランダムにステータス+10<br>ホシノの機嫌がいいと10点加点",
+            "boostSomething": "ランダムにステータス+10<br>ホシノの機嫌次第",
             "addCurseOnDamage": "減点で{{curse}}",
             "selfCurse": "使用者に{{curse}}",
             "selfCurseAndRedraw": "使用者に{{curse}}と新生活",
