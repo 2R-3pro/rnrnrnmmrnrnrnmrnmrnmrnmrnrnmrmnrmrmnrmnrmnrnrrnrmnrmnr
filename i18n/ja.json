@@ -2933,7 +2933,7 @@
             "blockMiracle": "レポートをthe worldする",
             "reflectAnything": "すべてをブーメラン論破",
             "boostHP": "{{hp}}点加点",
-            "orDealDamage": "日頃の行い次第で{{damage}}点減点",
+            "orDealDamage": "日頃の行いが悪いと{{damage}}点減点",
             "dealDamage": "{{damage}}点減点　日頃の行い",
             "revive": "評点0になると<br>留年を回避し{{hp}}点加点",
             "setHPOfEverybody": "みんなの評点が{{hp}}になる",
