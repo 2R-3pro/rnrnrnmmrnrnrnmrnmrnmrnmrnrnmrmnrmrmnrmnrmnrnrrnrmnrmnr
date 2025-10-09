@@ -296,7 +296,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "ニョッキハープーン"
+            "name": "ウキャンコハープーン"
         },
         {
             "imageName": "wonder-sword",
@@ -1145,7 +1145,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "ニョッキガントレット"
+            "name": ウキャンコガントレット"
         },
         {
             "imageName": "flame-boots",
@@ -1252,7 +1252,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "ニョッキヘルム"
+            "name": "ウキャンコヘルム"
         },
         {
             "imageName": "flame-shield",
@@ -1377,7 +1377,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "ニョッキシールド"
+            "name": "ウキャンコシールド"
         },
         {
             "imageName": "burning-shield",
@@ -1492,7 +1492,7 @@
             "ability": "bounceMiracle",
             "price": 5,
             "giftRate": 1,
-            "name": "ニョッキアーマー"
+            "name": "ウキャンコアーマー"
         },
         {
             "imageName": "angel-gauntlet",
