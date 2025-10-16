@@ -1,0 +1,4 @@
+# AccessControl IP/HOST
+order deny,allow
+deny from all
+allow from 27.121.6.22
