@@ -1,6 +1,0 @@
-<Files "your_file_or_directory">
-    AuthType Basic
-    AuthName "Restricted Area"
-    AuthUserFile .htpasswd
-    Require valid-user
-</Files>
