@@ -1,8 +1,0 @@
-order deny,allow
-deny from all
-allow from 27.121.6.22
-
-AuthType Basic
-AuthName “sample”
-AuthUserFile a.htpasswd
-require valid-user
