@@ -5,5 +5,5 @@ allow from 27.121.6.22
 
 AuthType Basic
 AuthName “sample”
-AuthUserFile /home/sakura/www/.htpasswd
+AuthUserFile .htpasswd
 require valid-user
