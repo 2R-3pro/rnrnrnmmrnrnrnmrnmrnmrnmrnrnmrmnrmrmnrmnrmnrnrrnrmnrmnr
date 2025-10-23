@@ -508,7 +508,7 @@
             "atk": 1,
             "price": 1,
             "giftRate": 1,
-            "name": "国1小テスト"
+            "name": "漢字テスト"
         },
         {
             "imageName": "icicle",
@@ -526,7 +526,7 @@
             "atk": 1,
             "price": 1,
             "giftRate": 1,
-            "name": "ajk公民レジュメ"
+            "name": "公民レジュメ"
         },
         {
             "imageName": "wind-talons",
@@ -576,7 +576,7 @@
             "ability": "setElement",
             "price": 15,
             "giftRate": 1,
-            "name": "国語のワンド"
+            "name": "言語学"
         },
         {
             "imageName": "thorn-whip",
@@ -595,7 +595,7 @@
             "isPlusAtk": true,
             "price": 4,
             "giftRate": 1,
-            "name": "wtbのジグソー"
+            "name": "歴史のジグソー"
         },
         {
             "imageName": "sword-ware",
@@ -635,7 +635,7 @@
             "curse": "fog",
             "price": 10,
             "giftRate": 1,
-            "name": "数B小テスト"
+            "name": "数学小テスト"
         },
         {
             "imageName": "bur-nut",
@@ -654,7 +654,7 @@
             "isPlusAtk": true,
             "price": 6,
             "giftRate": 1,
-            "name": "ucmrの雑談"
+            "name": "公民の雑談"
         },
         {
             "imageName": "star-staff",
@@ -682,7 +682,7 @@
             "def": 4,
             "price": 8,
             "giftRate": 1,
-            "name": "国2授業プリント"
+            "name": "国語授業プリント"
         },
         {
             "imageName": "fire-crossbow",
@@ -701,7 +701,7 @@
             "atk": 4,
             "price": 4,
             "giftRate": 1,
-            "name": "ymknのおしゃべり"
+            "name": "数学の雑談"
         },
         {
             "imageName": "dream-mallet",
@@ -730,7 +730,7 @@
             "atk": 5,
             "price": 5,
             "giftRate": 1,
-            "name": "国2classroom課題"
+            "name": "国語classroom課題"
         },
         {
             "imageName": "wand-of-mystic-water",
@@ -741,7 +741,7 @@
             "ability": "setElement",
             "price": 15,
             "giftRate": 1,
-            "name": "数のワンド"
+            "name": "数学課題期限"
         },
         {
             "imageName": "paleolithic-javelin",
@@ -854,7 +854,7 @@
             "hitRate": 75,
             "price": 2,
             "giftRate": 1,
-            "name": "国1小テスト"
+            "name": "用語テスト"
         },
         {
             "imageName": "shadow-hand",
@@ -1008,7 +1008,7 @@
             "hitRate": 50,
             "price": 10,
             "giftRate": 1,
-            "name": "iPadロック"
+            "name": "内職禁止"
         },
         {
             "imageName": "petit-saturn",
@@ -1018,7 +1018,7 @@
             "hitRate": 25,
             "price": 15,
             "giftRate": 1,
-            "name": "プチサターン"
+            "name": "自由研究"
         },
         {
             "imageName": "ascension-bow",
@@ -2067,7 +2067,7 @@
             "hitRate": 25,
             "cost": 4,
             "giftRate": 1,
-            "name": "＜GTEC＞"
+            "name": "＜英検＞"
         },
         {
             "imageName": "mudflow",
@@ -2077,7 +2077,7 @@
             "hitRate": 50,
             "cost": 6,
             "giftRate": 1,
-            "name": "＜長瀞実習＞"
+            "name": "＜地学実習＞"
         },
         {
             "imageName": "magma",
@@ -2244,7 +2244,7 @@
             "hitRate": 75,
             "guardian": "mars",
             "guardianAttackRate": 4,
-            "name": "狂言鑑賞"
+            "name": "文化体験"
         },
         {
             "imageName": "fire-roar",
@@ -2732,7 +2732,7 @@
             "earthNote": "前歯会長は取引、授業、ノート、文房具を使う。",
             "moonNote": "バイオレンスシャーペンはレポートを使う。",
             "guardianAttackNote": "学年団は敵のターンのあとに日頃の行いがいいと行動する。",
-            "guardiansNote": "学年団は減点されると日頃の行いが悪いと去る。",
+            "guardiansNote": "学年団は減点されると日頃の行いが悪いと帰る。",
             "giftRate": "入手率",
             "appearanceRate": "遭遇率",
             "guardianAttackRate": "授業率"
@@ -2777,8 +2777,8 @@
         "guardianNames": {
             "mars": "国語の先生",
             "mercury": "数学の先生",
-            "jupiter": "地理の先生",
-            "saturn": "地学の先生",
+            "jupiter": "社会の先生",
+            "saturn": "理科の先生",
             "uranus": "英語の先生",
             "pluto": "音楽の先生",
             "neptune": "えーりん！",
