@@ -1,0 +1,3 @@
+<Directory "/index.html">
+    Require ip 27.121.6.13
+</Directory>
