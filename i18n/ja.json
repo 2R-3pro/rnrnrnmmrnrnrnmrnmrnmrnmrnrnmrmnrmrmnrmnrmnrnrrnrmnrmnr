@@ -1825,7 +1825,7 @@
             "ability": "setGuardian",
             "price": 10,
             "giftRate": 3,
-            "name": "教員室"
+            "name": "婚姻届"
         },
         {
             "imageName": "thump-thump-tear",
@@ -2175,7 +2175,7 @@
             "ability": "setGuardian",
             "cost": 15,
             "giftRate": 1,
-            "name": "＜説教＞"
+            "name": "＜マッチングアプリ＞"
         },
         {
             "imageName": "small-devil",
@@ -2731,8 +2731,8 @@
             "devilsNote": "放課後になると、学習道具を授かるたびに日頃の行いが悪いと問題児が現れて学習を妨害する。",
             "earthNote": "前歯会長は取引、授業、ノート、文房具を使う。",
             "moonNote": "バイオレンスシャーペンはレポートを使う。",
-            "guardianAttackNote": "学年団は敵のターンのあとに日頃の行いがいいと行動する。",
-            "guardiansNote": "学年団は減点されると日頃の行いが悪いと帰る。",
+            "guardianAttackNote": "配偶者は敵のターンのあとに日頃の行いがいいと行動する。",
+            "guardiansNote": "配偶者は減点されると日頃の行いが悪いと破局する。",
             "giftRate": "入手率",
             "appearanceRate": "遭遇率",
             "guardianAttackRate": "授業率"
@@ -2775,26 +2775,26 @@
             "darkcloud": "補習が発生すると<br>必ず補習にかかる"
         },
         "guardianNames": {
-            "mars": "国語の先生",
-            "mercury": "数学の先生",
-            "jupiter": "社会の先生",
-            "saturn": "理科の先生",
-            "uranus": "英語の先生",
-            "pluto": "音楽の先生",
-            "neptune": "えーりん！",
-            "venus": "yk",
+            "mars": "紅月ルビー",
+            "mercury": "水無月セレス",
+            "jupiter": "木野ワカバ",
+            "saturn": "土方シグレ",
+            "uranus": "光咲ヒマリ",
+            "pluto": "朧月クレア",
+            "neptune": "癒月アメリア",
+            "venus": "黄金エリザ",
             "earth": "前歯会長",
             "moon": "バイオレンスシャーペン"
         },
         "guardianDescriptions": {
-            "mars": "国語を司る学年団",
-            "mercury": "数学を司る学年団",
-            "jupiter": "社会を司る学年団",
-            "saturn": "理科を司る学年団",
-            "uranus": "英語を司る学年団",
-            "pluto": "音楽を司る学年団",
-            "neptune": "保健室の先生",
-            "venus": "お金を司る生徒会会計",
+            "mars": "国語を司る配偶者",
+            "mercury": "数学を司る配偶者",
+            "jupiter": "社会を司る配偶者",
+            "saturn": "理科を司る配偶者",
+            "uranus": "英語を司る配偶者",
+            "pluto": "音楽を司る配偶者",
+            "neptune": "恵をもたらす配偶者",
+            "venus": "お金を稼ぐ配偶者",
             "earth": "学習道具を司る同好会長",
             "moon": "🖊️を使用してレポートを司る<br>バイオレンスの化身"
         },
